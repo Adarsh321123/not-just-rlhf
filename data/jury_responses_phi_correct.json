@@ -1,0 +1,2404 @@
+{
+  "phi": [
+    {
+      "response": "Alexander Hamilton, in Federalist #15, argued that the weak central government lacked the necessary powers to effectively address the pressing issues facing the nation, such as economic instability and the need for a cohesive national policy. This deficiency hindered the government's ability to unify the states and manage the country's affairs, leading to the problems highlighted in the",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is A because George Washington's letter directly addresses the need for a central authority to enforce laws and maintain order, reflecting the ongoing American debate about balancing individual freedoms with the necessity of a strong, coercive power to ensure the nation's stability and governance. Washington's concerns about the nation's ability to self-govern and the",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The issuance of the Emancipation Proclamation marked a significant shift in the Union's war aims from merely preserving the Union to also including the abolition of slavery, thereby transforming the Civil War into a moral crusade against the institution of slavery. This change in focus broadened the scope of the conflict and aligned the Union's objectives with",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is C, Plessy v. Ferguson, because this 1896 Supreme Court decision established the \"separate but equal\" doctrine, which allowed state-sponsored segregation as long as the separate facilities for blacks and whites were purportedly equal. This ruling directly validated the practice of segregation, which Brown v. Board",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Pure Food and Drug Act was passed in response to the public outcry following Upton Sinclair's The Jungle, which exposed unsanitary conditions in the meatpacking industry. Sinclair's vivid descriptions of the industry's practices led to widespread public demand for federal regulation to ensure food safety, directly resulting",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The passage by Martin Luther King, Jr. emphasizes the interconnectedness of communities and the universal impact of injustice, which directly relates to the historical debates over voting rights. King's assertion that \"anyone who lives inside the United States can never be considered an outsider anywhere in this country\" underscores the idea that voting rights are fundamental to the democr",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Eric Foner's argument highlights Lincoln's nuanced stance on slavery, which evolved over time and did not align strictly with the abolitionist or Radical Republican ideologies. He recognized the need for gradual abolition and maintained a distinction between his personal beliefs and his official duties, indicating a complex and shifting perspective. This complexity and deviation from established political categories",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Port Huron Statement is a foundational text for the New Left movement, as it explicitly calls for activism in response to human degradation and the Cold War, reflecting the movement's emphasis on social justice, anti-establishment sentiments, and the desire for systemic change. The statement's critique of the status quo and its call for a",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "A is correct because Woodrow Wilson's statement emphasizes the importance of neutrality and impartiality in times of conflict, which aligns closely with Washington's Farewell Address. In his address, Washington warned against entangling alliances and stressed the need for American neutrality, advocating for a peaceful and impartial stance, much like Wilson's",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Chief Justice Roger Taney's ruling in Dred Scott v. Sandford directly affirmed that Congress lacked the constitutional authority to regulate slavery in U.S. territories, as it contradicted the Fifth Amendment's protection of property rights, which at the time included slaves. This decision effectively nullified the Missouri Compromise and heightened section",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The passage reflects the influence of mercantilism because it emphasizes England's potential economic gain from sharing and dividing the \"prize\" of unclaimed territories with Spain and Portugal, highlighting the desire for wealth accumulation through trade and colonization, which are central tenets of mercantilist policy. The speaker's focus on equity and right to",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Wheatley's poem addresses the racial prejudices and injustices faced by African people, highlighting the need for societal refinement and equality. This directly ties to the historical debates over social justice, as it confronts the systemic discrimination and advocates for the moral and spiritual elevation of marginalized groups. The poem's call for",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The Alien and Sedition Acts of 1798 are the most closely related to nativism because they were explicitly designed to suppress the influence of immigrants, particularly those from France and Ireland, by restricting speech critical of the government and making it harder for immigrants to become citizens. This legislation directly targeted groups based on their national origin and political beliefs",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The National Woman Suffrage Association (C) would have most likely supported the scenario described in the passage because it advocated for women's rights, including their right to participate in public life and work outside the home. The passage highlights the shift in societal norms that allowed women to dine in public unescorted by men, a change that aligns with the suffrage",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Albert Beveridge's advocacy for the expansion of American influence and governance, as exemplified in his speech, directly aligns with the rise of the United States to the status of a great power. His emphasis on continuing the march of liberty and the assertion of American capabilities in governance and administration reflect the nation's growing assertiveness and global influence, which are hallmarks",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The United States became politically engaged with the Philippines following the Spanish-American War, as evidenced by Albert J. Beveridge's speech, which directly addresses the U.S. acquisition of the Philippines from Spain and the subsequent responsibility to govern and civilize the inhabitants. Beveridge's argument for American intervention and governance over the Filipino people, as a",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The correct answer is A because Senator Huey P. Long's \"Share Our Wealth Society\" emerged as a response to the ongoing economic hardships of the Great Depression, which the New Deal had failed to fully alleviate. Long's proposal aimed to redistribute wealth and ensure a minimum standard of living, reflecting the widespread",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "A is correct because Dorothea Dix emphasizes the need for state intervention in the care of the mentally ill, highlighting the inadequacies of existing systems and advocating for the establishment of a state hospital. Her plea to the General Assembly of North Carolina underscores the belief that the state has a moral and social responsibility to address the neglect and suffering of the ment",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Sacagawea, like Samoset and Squanto, served as a vital interpreter and guide for the Plymouth settlers, bridging the linguistic and cultural gap between the English colonists and the Native Americans. Her knowledge of the local terrain and languages, similar to Squanto's and Samoset's, was instrumental in the survival and success of",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "William M. Tweed, known for his control over New York City's Tammany Hall, similarly wielded significant political power and manipulated systems for personal gain, much like Senator Huey P. Long's control over Louisiana politics and his radical wealth redistribution proposals. Both figures exemplify the characteristics of a political boss who dominates their respective political landscapes",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The temperance movement was a popular reform movement of the 1840s, as evidenced by Dorothea Dix's Memorial, which, while advocating for the care of the insane, also implicitly supports the temperance movement's goal of reducing alcohol consumption to alleviate societal issues. The call for a state hospital for the insane reflects",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The sharp increase of immigrants during the period 1880\u20131910 is best accounted for by option A because Robert H. Clancy's statement highlights the persecution and discrimination faced by Southern and Eastern Europeans, prompting them to seek refuge and better opportunities in America. The historical context of seeking financial gain and political freedom amidst",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The Charter of Privileges granted by William Penn outlines a governance structure where the King entrusts authority to a proprietor (Penn himself) and his family, defining the colony's governance as a proprietary colony. This is evident from the language used, which emphasizes the granting of rights and privileges to the inhabitants under the proprietor's",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The balanced budget mandate is not part of Johnson's Great Society program because the Great Society's vision, as articulated by Lyndon Johnson, emphasizes abundance, liberty, and the continuous pursuit of a better society through various social reforms and initiatives. The balanced budget mandate, which requires government spending not to exceed revenue, contrasts with",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is B because President Andrew Jackson's quotation discusses the voluntary relocation of Native Americans to a designated area, emphasizing peace and the choice of governance, which parallels the civil rights movement's strategy of peaceful advocacy and raising awareness about racial segregation. Both Jackson's proposal and the civil rights movement's actions reflect a",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The Married Women's Property Act challenged the traditional legal concept of femme covert by affirming that married women's property rights remained separate and distinct from their husbands, thereby disrupting the notion that a married woman's legal identity and property were subsumed under her husband's. This legislative shift directly confronted the established legal doctrine that considered married women",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The Second Great Awakening significantly influenced Frederick Douglass as it was a period marked by religious fervor and the promotion of social reforms, including the abolitionist movement. Douglass's critique of the government's complicity in slavery and his call for the unification of pen, purse, and sword against slavery align with the movement's emphasis on moral responsibility",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Roger Williams advocated for the separation of church and state, as evidenced by his critique of the civil powers interfering in spiritual matters and his emphasis on the distinct roles of temporal and spiritual authorities. His banishment from Massachusetts Bay was a direct consequence of his belief that the civil state should not impose religious practices, which aligns with the principle of separating church and state to",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The American public's desire to avoid conflict and return to a more conservative political and social life (Option A) is the most compelling factor because it directly aligns with the sentiments expressed by John Kerry regarding the Vietnam War. The public's weariness of war and preference for domestic stability over foreign entanglements reflect a broader trend towards conservatism and isol",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The petition by Paul Cuffe highlights the struggle for political representation and fair taxation, reflecting the broader themes of the American Revolution that sought to address social inequalities and promote political democracy. Cuffe's appeal for justice and the right to vote underscores the revolutionary rhetoric that questioned the legitimacy of taxation without representation",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The ratification of the Fourteenth Amendment in 1868 is the correct answer because it explicitly granted citizenship to all persons born or naturalized in the United States, including former slaves, thereby addressing Garrison's call for the recognition of free colored persons as American citizens with all associated rights and privileges. This amendment directly countered the prejudices and legal",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The song \"The Hayseed\" reflects the disenfranchisement and exploitation of small farmers and workers by powerful monopolies and corrupt political entities, which fueled public outcry for reform and greater democratic control. This sentiment aligns with the historical context of the late 1800s, where widespread corruption in government, particularly",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The excerpt directly criticizes the federal government's complicity in upholding slavery, highlighting the use of military and judicial power to support the institution. Frederick Douglass's pointed reference to the pen, purse, and sword\u2014symbols of legislative, financial, and executive authority\u2014being united against abolitionist efforts underscores the system",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The excerpts highlight the influence of anti-government sentiment and the role of federal power in domestic conflicts, which directly connects to Timothy McVeigh's motivations and actions, as expressed in his own words and the context of the Oklahoma City bombing. This sentiment and the subsequent events, such as the Waco standoff, are indicative of the bro",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The passage by Marcus Garvey emphasizes the universal human qualities and rights of African people, advocating for their recognition and self-determination. This directly relates to the historical debate over whether African Americans should seek integration within the existing American society or pursue separatism to form their own independent nation. Garvey's call for a \"cry of Africa\" for Africans",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The passage reflects a call for solidarity and self-determination among Africans worldwide, emphasizing their shared identity, emotions, and aspirations. Marcus Garvey's rhetoric, which parallels the global movements for national self-assertion, aligns with the principles of black nationalism, advocating for the unity and empowerment of",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Patrick Henry's impassioned plea for liberty and his acknowledgment of the war's inevitability directly contributed to the colonies' decision to declare independence, culminating in the adoption of the Declaration of Independence. His speech underscored the futility of reconciliation with Britain and the necessity of self-determination, which resonated with",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is C, the Spanish\u2013American War, because Albert Beveridge's speech, delivered in 1898, directly addresses the implications and responsibilities of American expansion following the war. Beveridge emphasizes the continuation of the American march westward and the establishment of governance in new territories, which aligns with the acquisition of territories like",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "D is incorrect because the Sugar Act of 1764, which Prime Minister Grenville supported, aimed to raise revenue and control trade in the colonies, not to extend \"salutary neglect.\" Salutary neglect refers to the British policy of lax enforcement of parliamentary laws in the American colonies, which had been in place before the Sugar Act.",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Logan's explicit mention of the \"injuries of one man\" leading to the murder of his family and his declaration that \"there runs not a drop of my blood in the veins of any living creature\" directly indicate his profound grief and loss over the death of his kin. This personal tragedy is the central theme of his address, making option B the most accurate",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Hernando Cortes' ambition to conquer Mexico, as described by William Hickling Prescott, highlights a strategic goal of expanding Spanish territories under their control. The diverse assembly of mercenaries and native tribes, united under Cortes' leadership, signifies a concerted effort to extend Spanish dominion, rather than escaping oppression, seeking religious freedom,",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The ideology of States' Rights is most consistent with the sentiments expressed by South Carolina because the document explicitly states that the state resumes its independent status, with the power to govern itself, including the right to secede from the Union. This assertion of autonomy and self-governance directly aligns with the core principle of States' Rights, which advocates for the sovere",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Col. Samuel Thomas's testimony highlights the need for a stronger national government to protect the rights of newly freed individuals, as local and state authorities were failing to do so. Hamilton's proposal to adopt a new constitution would establish a more robust federal system capable of enforcing civil rights and ensuring justice, directly addressing the systemic discrimination and abuse described by Thomas",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The election of 1824 marked a turning point in presidential politics because it exposed the inefficiency and lack of democratic representation in the congressional caucus system for choosing nominees, leading to the eventual adoption of more inclusive and representative methods such as nominating conventions. This failure of the caucus system highlighted the need for",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The excerpt directly addresses the issue of states' rights and the division of powers between state and federal governments, specifically concerning the imposition of tariffs. John C. Calhoun's argument centers on the idea that states should have the authority to judge and correct infractions of their powers, which in the context of the time, refers to the imposition of higher tar",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Port Huron Statement's growth in the 1960s aligns with the societal changes brought about by the baby boom, economic growth, and a rapid expansion of higher education (Option B). The baby boom led to a larger, more engaged youth population, while economic growth provided the resources and stability for increased activism and organizational development. The expansion of",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The Supreme Court's decision in Brown v. Board of Education directly challenged the legality of segregation in public schools, which was a cornerstone of the Jim Crow laws in the South. This ruling catalyzed resistance from white communities, leading to a backlash that manifested in various forms of social conflict, including protests, legal battles, and even violence,",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The Declaration of Independence is the correct answer because Martin Luther King, Jr.'s appeal for universal justice and equality echoes the Declaration's foundational principles of \"all men are created equal,\" which King interprets to include women. This connection is further reinforced by King's emphasis on the interconnectedness of all communities and states, a concept that aligns with",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The passage explicitly mentions that Samoset, an Indian acquainted with the Pilgrims, informed them about the English ships that came to fish in the eastern parts, indicating the area's significance for fishing activities. This direct reference to fishing establishes it as the primary European economic activity in the region during the 1620s, making option A the correct answer. The",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The Emancipation Proclamation specifically targeted slaves in the Confederate states in rebellion, as it was a strategic war measure aimed at weakening the Confederacy's resources, rather than a blanket decree for all slaves in the United States. This limitation is evident in its language and the context of the Civil War, where Lincoln's primary goal was to",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "C is the correct answer because Albert Beveridge's speech embodies the principles of Manifest Destiny, which was the 19th-century doctrine that the expansion of the United States across the American continents was both justified and inevitable. Beveridge's rhetoric about continuing the march of liberty and the American government's ability to govern",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Populist Party emerged as a response to the economic distress faced by rural Americans, particularly farmers, who were adversely affected by the monopolistic practices of corporations and the control of the banking system. The platform's emphasis on restoring government power to the 'plain people' and addressing issues like the tariff, silver demonetization, and us",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Geraldine Ferraro's address emphasizes the need for fair rules and criticizes the administration's policies that disproportionately benefit large corporations while increasing the tax burden on individual citizens. She also highlights the moral implications of nuclear armament, suggesting a vision for America that prioritizes the well-being of its people over military might. These points directly",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Northern Republicans in the 1860s would most likely support Frederick Douglass's perspective because they were actively opposing the expansion of slavery and were part of the political movement that led to the Civil War, aiming to abolish slavery and promote equal rights, aligning with Douglass's call for the pen, purse, and sword to be united",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "James K. Polk is most closely associated with the concept of Manifest Destiny because his presidency (1845-1849) was marked by significant territorial expansion of the United States, including the annexation of Texas, the Oregon Treaty with Britain, and the Mexican-American War, which led to the acquisition of vast territories in the Southwest.",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The end of the Cold War, marked by the dissolution of the Soviet Union in 1991, directly facilitated President George H.W. Bush's vision of a \"new world order\" by eliminating the bipolar global tension that had previously hindered United Nations action against aggression. This geopolitical shift allowed for unprecedented international co",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Evangelical Christianity was a key motivating factor for many reformers of the 1840s, as evidenced by Dorothea Dix's Memorial, which appeals to Christian compassion and moral responsibility to care for the suffering and marginalized, particularly the mentally ill. The language used, such as \"advocate of those who cannot plead",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "William Penn was a Quaker, and the Charter of Privileges reflects the Quaker principles of religious freedom and non-establishment of a state religion, which were central to Quaker beliefs. The document's emphasis on the freedom to practice one's religion without interference from civil authorities directly aligns with the Quaker commitment to pacifism",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "An opponent of big government in the 1930s would see themselves in Logan's position due to the shared sentiment of resistance against overreaching authority and the desire for self-determination. Logan's narrative of seeking justice and autonomy after personal and communal injustices mirrors the concerns of those who, during the 1930",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Geraldine Ferraro's emphasis on fair taxation, the nuclear arms issue, and the need for rules that work for all Americans aligns with the New Dealers' focus on economic equality, social welfare, and government intervention in the economy during the 1930s. The New Deal era was marked by efforts to address economic disparities and create",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Kennedy's speech directly inspired the Apollo space program as it articulated a clear and ambitious goal of landing a man on the moon within the decade, emphasizing the importance of space exploration for the advancement of knowledge and peace, which aligns with the objectives and spirit of the Apollo program. The speech's call to action and its visionary nature gal",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Patrick Henry's impassioned plea for liberty and his refusal to accept peace at the cost of chains and slavery underscore his deep-seated concern for self-government. His call to action against tyranny and his willingness to sacrifice life itself for the cause of freedom highlight the American commitment to self-determination and governance by the",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Flushing Remonstrance explicitly addresses the issue of religious tolerance and the desire to avoid offending any of God's children, regardless of their religious affiliation. This document emerged as a response to Peter Stuyvesant's attempts to enforce religious conformity in a multi-ethnic colony, highlighting the tension between Stuyvesant's policies",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Kennedy's statement emphasizes a proactive and ambitious approach to space exploration, reflecting a period of technological advancement and national pride. The determination to lead in space, coupled with the vision of using space for peace and knowledge rather than conquest, showcases a strong sense of American confidence during a time of prosperity and progress. This confidence is further highlighted",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The excerpt discusses the concentration of power in the hands of a commanding officer, likening it to absolute monarchical rule, and the degradation of all individuals within a district, which directly relates to the Reconstruction era's policies and the controversial nature of the Reconstruction Acts of 1867. President Andrew Johnson's veto",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Maize cultivation among the native peoples of Mexico is most analogous to mixed agriculture among the Iroquois because both agricultural practices involve a combination of crop cultivation and animal husbandry, reflecting a sophisticated understanding of ecological balance and resource management. The Iroquois, like the native peoples of Mexico, developed a sustain",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The passage from the Married Women's Property Act in New York State (1848) directly addresses the legal rights and protections afforded to married women regarding property ownership and inheritance, which are central to the broader historical debates about the legal status of women. It highlights the shift from traditional legal norms that treated married women as property of their husbands to a",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Participants in the Seneca Falls Convention would most likely support the Married Women's Property Act because the convention was a pivotal event in the early women's rights movement, advocating for legal and social reforms to grant women equal rights, including property rights. The Act's provisions for women's independent ownership and inheritance rights directly align with the convention's",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Washington's critique of \"having too good an opinion of human nature\" reflects his concern that the democratic principles enshrined in the Articles of Confederation were overly optimistic about the capacity of individuals to self-govern effectively. He believed that without a strong central authority to enforce laws and decisions, the nation would struggle to function, as evidenced",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The immediate consequence of South Carolina's secession was the domino effect it triggered among other Southern states, leading to their own declarations of secession and the formation of the Confederacy. This collective action was a direct response to the perceived threat to their way of life and self-governance, as outlined in South Carolina's declaration, which emphasized the dissol",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is C because John Kerry's 1971 statement directly links the Vietnam War and the civil rights movement as central concerns of the Counterculture Movement. Kerry highlights the Vietnamese people's desire for peace and their struggle against foreign intervention, reflecting the anti-war sentiment and the broader quest for social justice that characterized the era.",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The establishment of Hull House and its subsequent expansion to include a boarding club for working girls directly aimed at addressing the hardships and challenges faced by immigrants in urban neighborhoods. By providing a safe space for support and mutual aid, the Settlement House sought to improve living conditions, foster community, and empower residents, which aligns with the broader",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The passage explicitly mentions the \"far-reaching, boundless future\" and the \"destiny\" of America to manifest divine principles, establishing a \"noble temple\" and a \"Union of many Republics\" on the West Coast, which aligns with the concept of America's inevitable and divinely sanctioned expansion to the West Coast. The language used,",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Christopher Columbus's voyages in 1492 are often mistakenly credited as the first European exploration of North America; however, Norse explorers like Leif Erikson reached parts of North America around the year 1000, well before Columbus. This historical fact undermines the misconception that Columbus was the first European to explore the",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Populist Party Platform of 1892 explicitly mentions the desire to \"secure the blessings of liberty for ourselves and our posterity,\" which aligns with the economic struggles of farmers during that era. The \"free silver\" campaign aimed to increase the money supply by allowing the coinage of silver, which would have led to inflation, thereby easing the deb",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The United States acquired the Oregon Territory through diplomatic negotiation, resulting in the Oregon Treaty of 1846 with Great Britain, which clearly delineated the boundary between British North America and the United States, thus making D the correct answer. This treaty exemplifies the peaceful and legal means by which the U.S. expanded its territory, reflecting the principles",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Bacon's Rebellion in colonial Virginia reflects a continuity with the events described in the passage due to its similar themes of frontier defense, conflict with Native Americans, and the involvement of settlers taking matters into their own hands when they felt governmental support was lacking. The Paxton Boys' actions, driven by a desire to protect their communities from perceived",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is B because Susan B. Anthony's speech highlights the systemic injustices and lack of rights for half of the population, which aligns with the criticism that Andrew Carnegie, as a wealthy industrialist, failed to address the exploitation and violence against his workers seeking fair wages and working conditions. This criticism reflects the broader societal issues of the",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Jacob Riis's investigative work into the living conditions of the poor, as exemplified in \"How the Other Half Lives,\" aligns with the muckrakers' ethos of exposing societal issues and advocating for reform. The muckrakers were journalists and writers in the early 20th century who sought to uncover and publicize the harsh",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Dawes Plan, established in 1924, was an international agreement aimed at resolving the reparations and debt issues of Germany post-World War I, and did not directly increase federal government power during the war. Unlike the War Industries Board, Food Administration, and Espionage Act, which were domestic measures that expanded federal authority in economic management, military",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The passage emphasizes the need to prevent the spread of totalitarian regimes by nurturing hope and addressing the root causes of despair, such as poverty and strife. This aligns with the policy of containment, which aimed to prevent the expansion of communism by supporting nations vulnerable to its influence, thereby maintaining hope and stability. The other options do not",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is A because Theodore Roosevelt's \"Square Deal\" directly aligns with the Progressive Party's emphasis on conservation, trust-busting, and consumer protection, as outlined in the 1912 platform. Roosevelt's policies aimed to ensure fairness and equity in economic practices, protect natural resources,",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The quotation emphasizes the need to limit federal influence and distinguish between federal and state powers, particularly in the context of economic issues. Reagan's call to \"curb the size and influence of the Federal establishment\" directly addresses concerns about federal overreach into economic matters, making C the correct answer as it reflects the historical debate over the extent of federal power over the economy.",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 79
+    },
+    {
+      "response": "The answer is C. states' rights because the Civil Rights movement primarily focused on dismantling racial segregation and discrimination, advocating for equal rights and protections under the law for all individuals, regardless of race. States' rights, however, often pertain to the powers and authorities reserved to individual states, which can sometimes conflict with the federal government's efforts to",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "D is correct because Lincoln's election on a Free-Soil platform directly threatened the institution of slavery, which was the cornerstone of the Southern economy and social order. The Republican party's stance against the expansion of slavery into new territories and their commitment to its eventual abolition in existing states alarmed Southern politicians, who feared the loss of their",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The success of the Libertarian party in national elections did not significantly contribute to the prominence of conservatism in the late 1970s and 1980s. This is because Ronald Reagan, a key figure in the conservative movement, explicitly stated that while he sees libertarianism and conservatism as aligned, he does not fully agree with all",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The Newlands Reclamation Act (1902) was primarily focused on water resource management and irrigation projects in the arid regions of the American West, rather than directly addressing the regulation of industrial power or wealth. Unlike the Sherman Anti-Trust Act, Interstate Commerce Act, and Federal Trade Commission Act, which were all designed to curb mon",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Jimmy Carter's address highlighted the challenges of Soviet military expansion, Middle Eastern oil dependence, and social changes in developing nations, which contributed to a perception of weakened U.S. foreign policy and leadership. This context of international tension and domestic challenges, coupled with Carter's inability to effectively address these issues, likely influenced public opinion and contributed to his defeat in",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Executive Order 9066, which led to the internment of Japanese Americans, directly contravened the civil liberties that Eleanor Roosevelt emphasized, such as freedom of speech, assembly, and religion. This historical event exemplified the erosion of democratic freedoms during times of national crisis, aligning with Roosevelt's concerns",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "President Franklin D. Roosevelt responded to political challenges like Senator Long's by launching the Second New Deal, which included legislative acts such as Social Security. This response directly addressed the concerns about wealth inequality and poverty by implementing policies that aimed to provide economic security and stability for Americans, thus countering the radical proposals of Senator Long and reinforcing the",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The Progressive Party Platform of 1912 emphasized the United States' duty to maintain the government for the people and to safeguard the Constitution from those who would distort its intent. This aligns with Theodore Roosevelt's \"Big Stick\" policy, which advocated for U.S. intervention in Latin America to ensure security and stability, reflect",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "William Bradford expresses surprise at the ability of Native Americans to learn English and act as cultural intermediaries, as evidenced by Samoset's proficiency in the language and his knowledge of English ships and the people of the eastern parts. This unexpected linguistic and cultural exchange facilitated communication and provided valuable information to the Plymouth settlers, highlighting the unantic",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The lyrics reflect themes of exploitation and opposition to monopolies, which align with the Populist movement's concerns in the 1890s, advocating for farmers and laborers against big business and political corruption. The mention of railroads and party bosses suggests a critique of the economic and political power structures of the time, which were central",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Progressive Party's platform in 1912 focused on domestic reforms aimed at promoting the general welfare, industrial justice, and the use of national resources for the benefit of the American people. Their agenda included consumer protection, conservation of natural resources, and antitrust actions to break up monopolies. Intervention in the affairs of Central American governments",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Senator Huey P. Long's \"Share the Wealth Society\" aimed to alleviate the economic hardships of the Great Depression by proposing wealth limits and guaranteed family wealth, directly addressing the widespread poverty and economic instability of the era, thus persuading voters that he had a viable plan to combat the crisis.",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 77
+    },
+    {
+      "response": "Jane Addams's narrative illustrates the empowerment of poor individuals through self-management and mutual support, as evidenced by the working girls' initiative to establish a boarding club. This self-reliance and collective action, without reliance on external leadership, underscores the belief that poor people can and should help themselves, making option B the most accurate",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The New Deal, initiated by President Franklin D. Roosevelt in response to the Great Depression, laid the groundwork for a more active government role in economic and social welfare, which aligns with Johnson's Great Society's goals of ending poverty, racial injustice, and promoting education, community, and environmental stewardship. Johnson'",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Coolidge's emphasis on the protection of property rights against unreasonable taxation and the importance of economic security reflects a critique of the Progressive Era's governmental policies, which often involved increased regulation and taxation in the name of social reform. The Progressive Era saw significant government intervention in the economy and society, which Coolidge perceived as a threat",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Sugar Act of 1764 is characterized by the imposition of taxes specifically designed to generate revenue for the British Crown, marking a departure from previous trade regulations that were primarily concerned with managing commerce. This act directly targeted colonial economic activities, such as the importation of sugar and molasses, by introducing duties, thereby shifting the focus",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The sentiment expressed by Beveridge exemplifies Imperialism because he advocates for the expansion of U.S. governance over territories like the Philippines without their consent, justifying it as a civilizing mission and a duty to protect them from other colonial powers. This perspective inherently supports the idea of extending a nation's influence through territorial acquisition and governance, which is the core",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The journal highlights the presence of diverse merchants from various regions, including India and Egypt, and their interactions, which facilitate cultural exchange and understanding. The mention of merchants being pious, humble, and generous, along with their treatment of strangers and devotees, underscores the role of commerce in promoting cultural diffusion across different societies within the Indian",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The letter reflects the existence of a Jewish trader in India, which indicates a transnational movement facilitated by interregional commerce. This movement led to the formation of diaspora communities, as traders often settled in foreign lands, creating networks that spanned across regions. The mention of a bill of repudiation suggests a legal and social framework that allowed for the mobility",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Lenin's call to power emphasizes the urgency of seizing control to prevent the revolution's failure and the dire consequences of inaction, such as famine and the loss of the land to peasants. This urgency and focus on the proletariat's role in overthrowing the existing government structure align with Marxist ideology, which advocates for a class",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The passage by Sim\u00f3n de Bol\u00edvar directly references the struggle for independence in South America, as it discusses the complexities of being neither fully indigenous nor European, and the challenges faced in asserting liberty and justice in a region dominated by deceit, superstition, and the remnants of slavery. Bol\u00edvar's call for virtue, the",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is D because Emperor Ashoka, after his conversion to Buddhism, actively promoted Buddhist teachings and values throughout his empire, as evidenced by his numerous edicts inscribed on rocks and pillars. These edicts not only encouraged the practice of Buddhism but also emphasized moral and ethical conduct, aligning with the Buddhist principles of comp",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is A because Nkrumah emphasizes the need for unity and common purpose among African states to achieve progress and contribute to world peace. The lack of common ethnicity, language, or religion can hinder this unity, as shared cultural and linguistic ties often foster stronger bonds and facilitate cooperation, which is essential for collective development and peace-building efforts",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Pope Urban II's emphasis on Jerusalem as the \"navel of the world\" and the site of Christ's life, suffering, and resurrection, directly relates to the significance of pilgrimages to centers of religious importance. The plea for liberation of Jerusalem and the call for a crusade to reclaim it underscore the central role of pilgrimage",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The passage reflects the core tenets of existentialism, as it emphasizes the individual's search for meaning in a seemingly indifferent universe, highlighting the inherent uncertainty and subjectivity of human existence. Albert Camus, a prominent existentialist, explores the absurdity of life and the human condition, which aligns with the existentialist movement's focus",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is D, The New World, because during the period of the Spanish conquests in the Americas, vast quantities of silver were extracted from mines in regions such as Potos\u00ed (in present-day Bolivia) and Zacatecas (in present-day Mexico). This influx of silver significantly increased the volume of silver flowing into China, as the Spanish established a",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Labor unions were partially responsible for improving the hours, wages, and working conditions of workers during this era because they provided a collective voice and bargaining power for workers, enabling them to negotiate better terms and advocate for legislative reforms. Unions organized strikes and protests, drawing public attention to the plight of workers and pressuring employers and law",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Nelson Mandela's election marked a pivotal moment in South Africa's history, symbolizing the end of institutionalized discrimination as he became the first black president, embodying the nation's transition from apartheid to a democratic society. His leadership and the peaceful transition of power demonstrated a collective will for freedom and equality, effectively dismantling",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The excerpt clearly illustrates a distinction between the religious practices of the elite and the common people, with the king and his Muslim officials maintaining Islamic customs, while the general populace continued to practice paganism and idol worship. This separation of religious adherence between the ruling class and the masses supports the statement that some elites converted to Islam, but lower",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The spread of Islam to the kingdom of Mali is best accounted for by trade contacts from the north across the Sahara (Option B) because the historical account describes the kingdom's engagement in trade with the land of the pagan Sudan, where Islamic practices were prevalent. The trade involved the exchange of copper for gold, and the presence of Muslim traders would",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Martin Luther's letter directly addresses the issues of wealth and power within the church, as well as the political nature of the church, by criticizing the church's control over temporal power, scripture interpretation, and the appointment of councils. However, he does not explicitly mention the sale of indulgences, which is a separate practice that Luther famously protested against, leading to",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is C, World War II, because during this period, the Soviet Union, as part of the Allied powers, sought to expand its influence and territory, leading to its involvement in the Korean Peninsula. The geopolitical strategy of the time, particularly the Yalta Conference agreements, aimed to establish Soviet influence in East Asia, which directly led to the",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Olympe de Gouges's \"Declaration of the Rights of Woman and the Female Citizen\" highlights the ongoing struggle for women's rights despite the Revolution, emphasizing that women remained unjustly disregarded and oppressed. Halima Ghomri's account of life post-Algeria's war of independence further illustrates the",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Seljuk Turks' invasion of Anatolia directly inspired Pope Urban's invocation of Constantinople because it represented a significant threat to the Christian Byzantine Empire, leading to the loss of territories and the desecration of holy sites, which Urban highlighted to rally support for a crusade to reclaim these lands and protect the Christian faith.",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 78
+    },
+    {
+      "response": "The Ming Dynasty's strict regulations on foreign traders, such as the requirement for them to register their names, limit their stay within the city, and confine them to their boats at night, indicate a policy aimed at controlling and limiting foreign influence and interaction. These measures facilitated tax collection and minimized the potential for foreign encroachment on Chinese sovere",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The Epic of Gilgamesh originated from a literate class of scribes in cities, as evidenced by the detailed and structured narrative of the epic, which required skilled writing and recording abilities. This class had the necessary resources, education, and societal role to document and preserve such complex stories, distinguishing them from oral traditions typically associated with",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The chart demonstrates a significant increase in literacy rates from 1897 to 1955, indicating substantial educational advancements under the Soviet regime. Despite the acknowledged abuses by Lenin and Stalin, the remarkable progress in literacy reflects a successful implementation of communist principles aimed at improving the lives of the Russian populace, thus supporting proposition D",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The account describes a warm and respectful reception by the grand Khan, including the honoring of Marco Polo and his ability to learn and adapt to Tartar customs, which signifies a mutual respect and willingness to engage with each other's cultures. This interaction, characterized by the exchange of gifts, language learning, and the grand Khan's commend",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The persistence of the senate as a body of government in the Roman Empire contributed least to the decline because it represented a continuity of Roman political structure and governance, which could have potentially provided stability and continuity amidst other destabilizing factors. Unlike civil wars, barbarian incursions, and demographic weaknesses, the senate's enduring role",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "C is correct because Peter the Great's reign is characterized by his autocratic approach to governance, where he sought to transform Russia with a strong central authority. His willingness to use force, including flogging, to enforce change and his lack of interest in sharing power with his people, align with the maintenance of serfdom, a system where peasants were bound to",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The emphasis on trade networks is the correct answer because the passage explicitly states that the Mongol empire facilitated secure trade routes, which led to prosperous merchants, wealthy cities, and the transmission of foods, inventions, and ideas across their vast territory. This integration through trade not only promoted economic and social development but also enhanced civilized life by connecting diverse civilizations",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Adolf Hitler's condemnation of the Treaty of Versailles is rooted in the widespread belief in Germany that it had been unfairly treated at the end of World War I, as he highlights the coercive signing of the treaty under threat of violence and hunger, which he deems not lawful. This perspective directly challenges the legit",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The passages highlight the violent nature of the Indian revolt of 1857, where Indian rebels, driven by a desire for autonomy and the restoration of native power, engaged in acts of violence against British officials and civilians. The British response to this uprising was to reassert their control and authority, leading to the defeat of the Indian rebels and the",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Chinese emperor's explicit statement of having \"no use for your country's manufactures\" and his assertion that they possess \"all things\" directly indicates a lack of interest in British products, making option C the most accurate. This disinterest is further emphasized by his call for the British to show \"greater devotion and loyalty,\" suggesting that the Chinese were not seeking",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The poem vividly illustrates the burdensome taxation and forced conscription that strained the peasantry, leading to widespread discontent and a weakened agricultural base. This discontentment and the resulting economic instability directly contributed to the Tang Dynasty's decline, as a distressed peasantry undermined the dynasty's",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The excerpt from Ibn Battuta's travels highlights the presence and acceptance of various religious groups, including Muslims, Jews, and Christians, within the city of Hangzhou. The detailed descriptions of their well-organized communities, with their own mosques, colleges, and respected positions, underscore the Yuan dynasty's policies of",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The development of joint-stock companies (B) during the period 1450\u20131750 C.E. inspired Gandhi's call to boycott foreign cloth as these companies facilitated the global trade networks that brought foreign goods, including textiles, into India. This economic shift towards global trade and the influence of European companies undermined local industries and promoted",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The poem explicitly mentions \"apartheid\" in the lines \"apartheid declares with snarling guns,\" directly linking the discriminatory system to the events of Sharpeville. The context of the poem, which highlights the oppression, racial dominance, and the struggle for freedom, is historically associated with the apartheid regime in South Africa, making D the",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Winston Churchill's speech emphasizes the determination to fight and defend Britain against all odds, highlighting the imminent threat of Nazi Germany's invasion. The reference to fighting on various terrains and the unwavering resolve to never surrender directly reflect the British fears and preparations for a possible invasion attempt by Nazi Germany, making D the most context",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "C is correct because it directly undermines Mao's vision of socialist transformation in agriculture by illustrating a failure in implementing cooperative farming and prioritizing steel production, which led to widespread famine and poverty among peasants. This outcome contradicts Mao's goal of improving the well-being of rural populations through collective",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The passages from John of Damascus and the Second Council of Nicaea both emphasize the importance and utility of religious images in conveying the incarnation of the Word of God, highlighting their role in aiding understanding and reinforcing ecclesiastical traditions. This focus on the use and significance of images in religious contexts directly points to a debate centered on",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Source 2 explicitly states that followers of all other religions are allowed to worship within their households or particular houses, provided there is no exterior indication of this worship. This provision for private worship of non-Catholic religions within the Empire of Brazil indicates a legal acceptance of religious diversity and tolerance, supporting the inference that religious toleration gained acceptance with the laws of most",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The geography of Greece, characterized by its numerous natural harbors, significantly contributed to the widespread dissemination of Greek culture by enhancing maritime trade and commerce. These harbors provided safe and accessible ports for ships, enabling efficient transportation of goods, ideas, and cultural practices across the Mediterranean, thus facilitating cultural exchange and the spread",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The authors of Source 3 explicitly identify \"rigid societal gender roles\" as the root cause of their oppression, emphasizing the need to eliminate social pressures to conform to these roles for the liberation of both men and women. This direct reference to gender roles as an obstacle to achieving Gay Liberation makes A the correct answer, as it aligns with their stated goal of",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The \"temporal power\" mentioned in the passage is best understood as a state or secular authority (C) because Martin Luther criticizes the Romanists for asserting that the temporal power, which represents the governing state or secular realm, has no jurisdiction over them, emphasizing the separation between secular governance and spiritual authority. Luther's argument highlights the",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Chinese Exclusion Act of 1882 and the Immigration Restriction Act of 1901 in Australia both explicitly target immigrants based on nationality and perceived economic threat, reflecting a broader trend of increasing xenophobia and protectionism. These legislative measures were designed to limit the influx of immigrants deemed undes",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The passage explicitly mentions that the Malians are \"Muslims keeping to the prayers, studying fiqh (Islamic jurisprudence) and learning the Qur'an by heart,\" which directly indicates their dedication to understanding and practicing Islamic law. This commitment to religious education and observance is a clear sign of their seriousness in uphold",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The encomienda system is the correct answer because the quote describes a scenario where a Spanish nobleman could demand his indigenous people to provide food and resources, which aligns with the encomienda system's practice of granting Spanish settlers control over indigenous labor and tribute in the form of agricultural produce. This system was essentially a form of forced labor",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The passage emphasizes a woman's dedication to domestic duties, her upright character, and the observance of ancestral worship, all of which are confined within the home. It explicitly states that a woman should complete her tasks \"completely, tidily, and systematically,\" and focus on \"cleaning, purifying, and arranging\" for ancestral offerings",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The author suggests that as the Roman Empire expanded through conquest, its vastness led to difficulties in maintaining effective control, which in turn exacerbated its decline. The phrase \"the causes of destruction multiplied with the extent of conquest\" directly implies that the larger the empire became, the more challenging it was to manage, thus making option B the most accurate interpretation of",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The passage emphasizes the necessity of using \"terror\" as a means to achieve justice and protect the Republic, highlighting that it is a consequence of democracy's application to urgent needs. This rationale aligns with the principle that the end (preservation of the Republic) justifies the means (use of terror), making C the correct answer. The justification lies in the",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Epic of Gilgamesh attributes divine qualities to the king, describing him as \"two thirds god\" and mentioning gods bestowing upon him glory and courage. This divine association was a common motif used to legitimize rulers, suggesting that their authority was sanctioned by the gods themselves, thereby justifying answer C as the correct interpretation of ancient leaders",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The North Atlantic Treaty explicitly outlines the commitment of the signatory nations to collective defense, as stated in Article 5, which declares an armed attack against one or more of them as an attack against all, obligating each nation to assist the attacked party through necessary action, including the use of armed force. This mutual agreement to defend one another solidifies the concept of collect",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The author's appeal is primarily based on the argument that it is hypocritical to sell one country a substance banned as harmful in one's own (A), as evidenced by the explicit mention of opium's prohibition in the author's own country and the moral inconsistency highlighted in exporting a harmful drug to another country. The",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Otto von Bismarck's speech highlighted the worker's vulnerability to poverty due to health issues and aging, which directly influenced the establishment of public health care and pension systems. These laws were designed to provide a safety net for workers, ensuring they had access to healthcare regardless of their employment status and financial security in old age, addressing the core concerns",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The U.S. policy of containment (D) is consistent with the concern over limiting Soviet occupation in Korea because it aimed to prevent the spread of communism by containing it within its existing borders, mirroring Bonesteel's strategy to restrict Soviet influence to north Korea. This policy sought to maintain the status quo and prevent further expansion, aligning with the goal of containing",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Mao Zedong's emphasis on the socialist transformation of agriculture, the elimination of the rich-peasant economy, and the collective well-being of rural people directly aligns with the concept of promoting collectivization of land to reduce inequality, as outlined in option B. This approach seeks to unify the peasantry under a common economic",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The account by Ibn Battuta suggests that the practice of women not wearing veils in Mali was a continuation of preexisting cultural norms rather than a rebellion, a result of sexual objectification, or due to climatic conditions. The description of women freely interacting with men outside of marriage and the absence of disapproval from men when women are with companions",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The passage highlights the pious, humble, upright, and generous character of the inhabitants of Aden, despite their wealth and the challenging conditions they face. Their commitment to religious duties, such as paying tithes to God and treating strangers well, underscores the supremacy of piety in their society. This demonstrates that, even",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Martin Luther King, Jr. explicitly advocates for nonviolent direct action to create tension and foster dialogue, aiming to overcome prejudice and racism, which aligns with the principles of nonviolent resistance. He emphasizes the necessity of constructive tension for growth and understanding, rejecting violent tension while supporting the idea of nonviolent g",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is C because the text describes how Spanish authorities utilized existing local labor systems, such as the mita, and adapted them to their own colonial objectives, rather than imposing outright slavery (A) or relying solely on native labor without adaptation (B). The passage highlights the structured, albeit exploitative, labor practices that were integrated into the Spanish colonial",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The texts from The Epic of Gilgamesh and The Maxims of Ptahhotep both vividly describe the afterlife as a realm of darkness, absence of light, and dwelling in dirt, which aligns with ancient religious conceptions of the afterlife as a place of punishment or a shadowy existence. This focus on the afterlife's",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is B because, similar to the Roman use of barbarian peoples as soldiers, many civilized societies between 600\u20131450 C.E. also incorporated barbarian peoples into their military structures. This practice was a strategic method to utilize the skills, numbers, and ferocity of these groups to bolster the military",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is A because both the Mongol and Persian empires are historically documented to have practiced religious tolerance and cultural preservation among their diverse populations. The Mongol Empire, as described by Robert Guisepi, facilitated international contact and trade across various civilizations, allowing for the exchange of ideas and goods while maintaining local traditions. Similarly, the Persian Empire,",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The passage emphasizes the moral and ethical conduct of rulers, linking their public actions directly to their private behavior, and highlighting the consequences of virtue or vice on the state's well-being. This reflects a political philosophy where the ruler's personal morality is seen as foundational to governance, thereby making B the correct answer as it encapsulates",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The poet's lamentation over the perceived threat of U.S. imperialism and the defense of Latin American sovereignty aligns with the historical context of U.S. involvement in Panama's independence. The construction of the Panama Canal, which was a significant factor in the U.S. decision to support Panama's separation from Colombia,",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The passage from the Rig Veda emphasizes the act of sacrifice (Purusa) and its direct influence on the creation of various elements of the world, including the Brahman, Rajanaya, Vaisya, and Sudra. This illustrates the central role of sacrifice in Hinduism, where offerings to the gods are believed to bring about cosmic order and the",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Lorenzo de Medici, a Renaissance-era Florentine statesman and patron of the arts, lived in a period and region vastly different from Ibn Battuta's 14th-century travels in the Islamic world and India. Unlike Ibn Battuta, who engaged in trade, observed diverse cultures, and documented his experiences in a travelogue, Lorenzo",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Han and Gupta empires, like Rome, experienced internal decay and external pressures that led to their decline. Both empires expanded significantly, which strained their resources and governance, and both faced invasions by nomadic groups, similar to the \"deluge of Barbarians\" that overwhelmed Rome. The internal corruption and loss of military discipline, as seen",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Chinese prioritized the enhancement of horse archer units to counter the threat of highly mobile steppe nomads, which was their most pressing military concern at the time. This strategic decision to focus on existing strengths rather than investing in cumbersome early gunpowder weapons, which were less effective against their specific adversaries, directly aligns with option C. This choice reflect",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is D because both passages discuss the economic influence and control exerted by Western institutions over their respective regions. William Bentinck's reference to the British Empire's trade and George Simpson's mention of the Hudson's Bay Company's trade with Indians both illustrate the use of economic leverage and dependency to maintain control, which is a characteristic of the charter",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The author refers to the \"second wall\" as the differing views of Catholics and Reformers on the appropriate use and interpretation of biblical texts because he criticizes the Catholic Church's monopoly on scriptural interpretation, claiming that they assert the Pope as the sole authority, while Reformers advocate for individual interpretation. This directly challenges the Catholic stance and highlight",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The passage explicitly states the desire for discord among barbarian tribes as a strategic advantage for the empire, indicating that empires actively sought to provoke conflicts to weaken potential threats. This direct encouragement of rivalry and enmity among neighboring tribes aligns with option A, as it demonstrates a calculated imperial policy to foster internal strife among \"bar",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The term \"idolatrous Koholanes\" explicitly indicates a religious pretext for the slave hunt, suggesting that the Arab soldiers were motivated by a belief in the religious inferiority or heresy of the targeted black Africans. This choice of language underscores the role of religion as a justification for the enslavement, distinguishing it from purely economic or military",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "D is correct because Nkrumah's national plan emphasizes a government-driven approach to foreign investment, ensuring it aligns with the country's own interests, which is a key principle of socialism. This approach prioritizes national sovereignty and economic self-determination over capitalist market forces, reflecting socialist ideals of collective",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The speech by Pope Urban II at the Council of Clermont in 1095 C.E. explicitly calls for the liberation of Jerusalem and the Holy Land from non-Christian control, emphasizing the religious duty and glory in arms for Christians to undertake this mission. This direct appeal for a military expedition to reclaim Christian territories in the Middle East aligns with the",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Both passages describe systems where indigenous populations are compelled to work under harsh conditions and pay tributes, reflecting the broader development of emerging systems of coerced labor. In the first passage, the mita system forced indigenous laborers to work in mines, often under dangerous and oppressive conditions, while the second passage details the yasak tribute",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The requirement for immigrants to write a passage in a European language, without mentioning race, serves as a subtle yet effective means to exclude non-European individuals by imposing a linguistic barrier that disproportionately affects those not proficient in European languages, thereby circumventing direct racial discrimination while achieving the same exclusionary outcome.",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "William Bentinck's statement reflects a moral and ethical stance against the practice of sati, emphasizing the horror of sacrificing innocent lives and the duty to prevent it. George Simpson's approach, while not directly related to sati, underscores the British strategy of economic dependence to maintain control, indicating a pragmatic and non-religious",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The passage describes the presence of Muslim merchants, their well-organized communities with mosques and cells, and their significant role in the city of Hangzhou, which was a major trade hub during the period 600-1450 C.E. This indicates that the empires of steppe nomads, such as the Mongols under Genghis Khan",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The passage explicitly states that the king of Ghana levied a tax of one golden dinar on every donkey-load of salt imported into the country and two dinars when it was sent out, as well as five mithqals from a load of copper and ten mithqals from other goods. This direct mention of specific taxes on salt and copper imports and exports",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "D is correct because it directly addresses Lord Ii's concerns about the potential threat posed by foreign powers with advanced technology and military capabilities. Commodore Perry's arrival and the subsequent forced opening of Japan's ports to trade in 1853 exemplify the kind of formidable power Lord Ii feared, which could lead to a \"mighty calam",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The passages reflect the exercise of colonial administrative power over native peoples, as they discuss the governance and control of Indian populations through trade and the imposition of British authority, without reference to slavery, missionary work, or military mobilization. William Bentinck's advocacy for the prohibition of sati and George Simpson's emphasis on using trade to en",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The speaker, Kwame Nkrumah, emphasizes the need for unity and common purpose among African states to achieve national development and world peace, which aligns with the principles of Pan-Africanism. This ideology advocates for the political and economic integration of African nations to collectively address the legacies of colonialism and foster continental solidarity. N",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is C, Communism, because Stalin's speech emphasizes the need for Russia to overcome its backwardness and exploitation by capitalist powers through collective action and socialist industrialization, which are core principles of Communist ideology. Stalin's call for unity and strength to resist exploitation reflects the Marxist-Leninist perspective that the prolet",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The second passage highlights the systemic brute force and hierarchical superiority imposed by British rule, which denied Indians their \"humanness\" and treated them as inferior. The Cawnpore Massacre, as described, was a direct response to this oppressive and violent dominance, where the colonized Indians sought to reclaim their dignity and agency through violent",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is D because the second passage explicitly mentions the depletion of sables and foxes due to overhunting, which directly impacts the natives' ability to fulfill their tribute obligations. The loss of these essential furbearing animals, exacerbated by the pawned horses, underscores the critical role of sustainable hunting practices and",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The second passage illustrates instances of kindness and hospitality between Christians and Muslims, as well as the unimpeded economic interactions between Christian merchants and Muslim territories. This directly challenges the notion that state-level conflicts were universally mirrored in personal and economic relations, thereby supporting answer A. The evidence of peaceful coexistence and mutual respect in personal and economic",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Sim\u00f3n de Bol\u00edvar's message to the Congress of Angostura reflects his vision for the unity and independence of Latin American states, advocating for the practice of virtue, law, and justice as foundations for liberty. This aligns with his historical role in leading the liberation movements across Latin America, ultimately contributing to the formation of the first union of independent Latin American states",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The inclusion of the Congo in Nkrumah's argument serves to highlight the neglect and lack of attention African nations receive from world powers, as evidenced by the U.N.'s preoccupation with constitutional details rather than addressing the anarchy and instability in the region. This example underscores the broader pattern of disregard for African independence and sovereig",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The author's cynicism about the loyalty of a ruler's subjects is evident in the detailed analysis of human nature and the fickleness of alliances based on fear rather than love. Machiavelli emphasizes the unreliability of friendships formed through payments and the ease with which subjects turn against their ruler when the time for reciprocation",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Machiavelli's political philosophy in \"The Prince\" is rooted in pragmatism, emphasizing the practicality of fear over love for maintaining power, a stark contrast to the medieval period's ideologies that often intertwined ethical, religious, and feudal principles. This pragmatic approach disregards moral considerations in favor of realpolit",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The mention of \"Rhine and Prague\" in the context of the Winter King's loss signifies territories that were forfeited due to military defeat, as these are not pilgrimage sites, Holy Roman Empire strongholds, or military posts but rather specific regions directly impacted by the Winter King's failure in battle. The narrative's emphasis on the Winter",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "World War II significantly weakened the British Empire's economic and military resources, making it more challenging to maintain control over its colonies. This global conflict created an environment where the Indian independence movement, bolstered by the non-violent boycott of foreign cloth and the Swadeshi movement, could gain momentum and international sympathy, ultimately contributing to India's path to",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The passage describes the Portuguese carrying goods from Japan to China and vice versa, highlighting their active role in the exchange of commodities between these regions. This direct involvement in the movement of goods across East Asia, as a European power, underscores their participation in the broader East Asian trade patterns, making option C the most accurate choice. The passage does not suggest Chinese domination",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The presence of silk robes among the people in the king's court suggests trade with Asia, as silk was historically a luxury item produced in regions like China and India, known for their advanced silk-weaving techniques. The use of such a high-value material indicates an exchange of goods, likely facilitated by trade routes connecting Ghana to Asian civilizations. This",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The first verse from the Qur'an, Sura 5: 89, explicitly condemns intoxicants, games of chance, and idolatry, which aligns with a puritanical approach to religious conduct. This clear directive to abstain from such practices for spiritual success mirrors the strict adherence to a moral code found in puritanical religious disc",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The German invasion of Russia in 1941 directly exemplifies the consequences of falling behind, as Stalin warned, leading to immense suffering and loss for the Soviet Union. This event vindicated Stalin's call to advance, as the Soviet Union's rapid mobilization and eventual resistance against the German forces marked a pivotal turning point in World War II,",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Sukarno's call for peace and the mobilization of the collective strength of Asia and Africa aligns with the broader geopolitical context of the Cold War, where these regions were often caught between the ideological and military confrontations between the United States and the Soviet Union. The Bandung Conference, which Sukarno addressed, was a significant event during this period, emphas",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The song \"Poor Winter King\" directly references Ferdinand as Bohemia's lawful king, a title contested during the Thirty Years' War, a protracted conflict involving various European powers and religious factions. The song's lamentation over the usurpation of the kaiser's crown and the subsequent exile of the \"Winter King\" (",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The passage emphasizes the need for African unity to command respect and avoid the dangers of disunity, projecting a strong African identity on the global stage. Nkrumah's call for a political union and the critique of the international community's neglect highlight a strategic vision for Africa's enhanced global standing, making option C the most fitting answer. This proposal is not merely",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Tale of Sanehat illustrates how military success against external foes, as demonstrated by Sanehat's conquests, was instrumental in establishing a ruler's legitimacy and favor in the eyes of their subjects and peers. The narrative emphasizes the ruler's valor and the admiration it garners, leading to his elevated",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The passage describes a sultan's trade in copper and gold, indicating active commerce and exchange of goods between regions, which supports the development of international trade connections during the period 600\u20131450 C.E. The specific mention of trade routes and the exchange of commodities like copper and gold for gold further emphasizes the growth and establishment of trade networks,",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The Winter King rebelled against King Ferdinand because the song explicitly states that he \"rouse up and go to Ferdinand, your king,\" indicating a need to seek pardon for a transgression against Ferdinand's authority. The mention of \"shame and dismay\" for his actions further implies that he committed an act of defiance or rebellion, leading to his exile and the",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The constitutions of both Gran Colombia and the Empire of Brazil were created in response to internal pressures and the desire for self-governance, which were characteristic of revolts organized by provincial elites in Latin American nations. These elites sought to consolidate power and establish political structures that reflected their interests and aspirations for national unity and independence, distinguishing them from broader pan",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The speaker's reference to returning to Brahman after death and the assurance of reaching Brahman through faith and non-doubt highlights a belief in life beyond the physical realm, which is a core tenet of the afterlife concept in their religion. This emphasis on an eternal spiritual journey and the promise of union with a universal spirit upon death clearly indicates that",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Robespierre emerged as a dominant figure during the French Revolution, particularly during the Reign of Terror, where he exercised significant influence and power, unlike the other options which either held lesser roles or were not central figures in the revolution. His leadership and radical policies during this period, which included the establishment of the Committee of Public Safety and the widespread use of the",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The motion for cloture is specifically designed to limit debate on a bill in the Senate, thereby overcoming a filibuster and compelling a vote. This mechanism is crucial in the Senate's unique structure, which allows for extended debate and individual senators to delay or block legislation. By invoking cloture, a supermajority of senators can ensure that a bill",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "D is correct because cooperative federalism is fundamentally about the collaboration between state and federal governments to address issues that transcend individual jurisdictions. This partnership ensures a unified approach to policy implementation, leveraging the strengths and resources of both levels of government to achieve more effective and comprehensive solutions. The essence of cooperative federalism lies in its",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The First Amendment explicitly guarantees the right of American citizens to petition the government for a redress of grievances, as it encompasses freedoms of speech, assembly, and petition, which are fundamental to a functioning democracy. This amendment ensures that individuals can express their concerns and seek governmental action without fear of retribution, thereby fost",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The increasing concentration of ownership in the news media has led to a homogenization of perspectives, as a smaller number of corporate entities control a larger share of the media landscape. This consolidation often results in editorial decisions that reflect the interests of these few owners, thereby reducing the diversity of viewpoints and stories presented to the public. Consequently, network news coverage",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "In an open primary, the defining characteristic is the inclusivity it offers to voters, allowing them to participate in the election of a party that is not their own. This system breaks down the barriers of party affiliation, promoting a broader democratic engagement and reflecting a more diverse range of political views within the electorate. Therefore, D is the correct answer",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is C because a pardon fundamentally alters the legal consequences of a conviction by absolving the individual of their punishment, effectively erasing the legal record of the offense. In contrast, a reprieve merely delays the execution of a sentence, such as a death penalty or prison term, without altering the underlying conviction or the individual's legal status.",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The doctrine of incorporation is correct because it specifically refers to the process by which the Supreme Court has applied portions of the Bill of Rights to the states through the Fourteenth Amendment's Due Process Clause. This legal doctrine ensures that fundamental rights and freedoms are uniformly protected across all states, thereby integrating federal protections into state law, which is the essence of",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "A is correct because judicial activism refers to the willingness of the judiciary, particularly the Supreme Court, to interpret the Constitution in a way that leads to new policies or changes in legal precedent, often reflecting contemporary values or correcting perceived injustices. This approach contrasts with judicial restraint, which emphasizes adherence to precedent and a more conserv",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "A is correct because statistical data consistently shows that the Supreme Court grants certiorari to a very small fraction of petitions, typically less than 5%, reflecting the Court's discretionary power to manage its docket and focus on cases of significant legal importance or national consequence. This rarity underscores the selective nature of the process, where only cases with",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Third-party movements often struggle to maintain momentum and influence because when the major parties begin to incorporate similar policies or goals, the unique platform of the third party loses its distinctiveness and appeal. This convergence dilutes the third party's identity and causes its supporters to feel represented by the major parties, leading to the disintegration of the third-party movement as its core purpose is",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "James Madison argues that a federal system dilutes the influence of any single faction by distributing power across multiple levels of government, thus making it challenging for one faction to dominate and govern unilaterally. This structure ensures a balance of power and prevents the tyranny of the majority, as no single faction can easily consolidate control, thereby safegu",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The legislative successes of the National Rifle Association, antiabortion activists, and other powerful interest groups illustrate that even when a majority of the public may hold a different opinion, the concentrated and fervent efforts of a committed minority can exert significant influence on policy outcomes. This phenomenon occurs because these groups often possess substantial resources, strategic expertise, and",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "A is correct because the U.S. Constitution grants Congress the sole authority to impeach and remove federal judges from office, ensuring a system of checks and balances. This process is designed to protect the judiciary from abuse of power and maintain the integrity of the legal system, as it requires a supermajority in the House of Representatives to impeach and a",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The development of a two-party system (D) is the most direct result of an electoral system with single-member districts because such systems tend to favor larger parties due to the \"winner-takes-all\" nature, which discourages smaller parties from competing effectively. This dynamic leads to a consolidation of political power into two dominant parties, as smaller parties struggle to",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Pendleton Act of 1883 is the correct answer because it was the landmark legislation that established the merit system for federal employment, replacing the spoils system. This act mandated that government jobs be awarded based on merit, as determined by competitive exams, rather than political connections, thereby ensuring a more qualified and impartial civil service. The",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Rules Committee in the House of Representatives is tasked with setting the terms and conditions under which legislation will be considered, including debate time and amendments, which directly influences the legislative process. This pivotal role ensures that the committee shapes the procedural framework within which all legislative business is conducted, making option A the correct answer as it encapsulates the",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Gerrymandering is the correct answer because it specifically refers to the manipulation of electoral district boundaries to favor one political party, often resulting in oddly shaped districts. This practice directly impacts the fairness of elections by diluting the voting power of the opposition, thereby ensuring a predetermined advantage for the party in control of the redistricting process. Unlike",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "D is the correct answer because it involves a direct conflict of interest and potential exploitation of insider knowledge for personal gain. An official leaving the State Department to work as a paid consultant to foreign governments could leverage sensitive information and influence to benefit those governments, which constitutes influence peddling. This scenario raises ethical concerns about the misuse of public office for private profit",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Federal election laws are designed to ensure transparency, fairness, and accountability in campaign financing and operations. While they mandate the disclosure of donations and expenditures (A and D) and impose limits on contributions (C) to prevent undue influence and corruption, they do not specifically aim to prevent campaigns from issuing \"attack\" ads",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The preclearance provision of the Voting Rights Act is designed to prevent discriminatory practices in voting, thereby ensuring equal access to the ballot for all eligible voters. It is least likely to explain low voter turnout because it aims to remove barriers to voting, not create them. In contrast, factors like low political efficacy, strict ID requirements, and",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Answer C is correct because it accurately reflects the principle of federalism in the United States, where both federal and state judiciaries operate independently within their respective jurisdictions. However, the U.S. Constitution and federal law establish that federal courts have the authority to review state court decisions for constitutional compliance, ensuring a balance between state autonomy and adherence to",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The absence of a political party solely dedicated to labor and working-class issues in the United States is indicative of the challenges inherent in consolidating diverse interests and ideologies within a single party structure, especially in a \"winner-take-all\" electoral system where broad appeal is necessary for success. This system often dilutes the focus on specific issues like labor rights,",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Tenth Amendment to the Constitution explicitly delineates the division of power between the federal government and the states, stating that powers not delegated to the United States by the Constitution, nor prohibited by it to the states, are reserved to the states respectively, or to the people. This principle is the cornerstone of American federalism, as it clearly establishes the autonomy of",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Supreme Court's selective hearing of cases allows it to influence public policy and societal norms by choosing issues that have broader implications, thereby setting the public agenda. This discretionary power ensures that the Court focuses on cases with significant legal questions that can shape the nation's laws and values, making option B the most accurate description of the Court's",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The No Child Left Behind Act is a federal mandate because it directly imposes specific educational standards and accountability measures on states, which must comply to qualify for federal funding. This legislative action reflects the federal government's authority to set conditions for the receipt of federal funds, thereby ensuring nationwide educational objectives are met, which is a hallmark of a",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The Ways and Means Committee is the chief tax-writing committee in the House of Representatives, responsible for all taxation, tariffs, and other revenue-raising measures. A member aiming to influence tax policy would naturally gravitate towards this committee, as it directly handles legislation and oversight related to tax laws, making it the most pertinent and influential body for",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is C because selective incorporation is a constitutional doctrine through which the Supreme Court has applied most of the protections in the Bill of Rights to the states via the Fourteenth Amendment's Due Process Clause. This process ensures that individual rights are uniformly protected across all states, preventing states from infringing upon these fundamental liberties, which are originally intended",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Fourteenth Amendment was violated by the \"separate but equal\" doctrine because it explicitly grants citizenship and equal protection under the law to all persons born or naturalized in the United States, which includes the right to equal access to public facilities. Brown v. Board of Education (1954) determined that segregation in public schools inherently created inequality, thus",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The redrawing of congressional district boundaries every 10 years is mandated to reflect population shifts as indicated by the national census, ensuring that each district represents a roughly equal number of constituents. This process, known as redistricting, is crucial for maintaining fair and equitable representation in the House of Representatives, as it adjusts for population changes and demographic",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The electoral college system awards electors to states based on their congressional representation, which is a combination of state population and the number of senators. Candidates aim to win states with the highest number of electors, which are often \"battleground\" states with a mix of Republican and Democratic support, as these states can swing the election outcome. Therefore, concentrating campaign efforts",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "A is correct because civil court is designed to handle disputes between private parties, where one seeks compensation or resolution for a perceived wrong or breach of contract, which is the essence of such cases. The federal and state court systems do not exclusively handle these disputes, as jurisdiction can vary based on the nature of the case and the involved parties' locations. Criminal",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The electoral system with single-member districts often leads to a two-party dominance due to the \"winner-takes-all\" principle, where only the candidate with the most votes in a district wins representation. This system discourages third parties because they struggle to win individual districts, leading to a concentration of power among the two major parties that can consistently secure enough votes to",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The Supreme Court in Roe v. Wade relied on the right to privacy, which is inferred from the Bill of Rights, particularly the First, Third, Fourth, Fifth, and Ninth Amendments. This right to privacy encompasses a woman's decision to have an abortion, as it pertains to personal autonomy and bodily",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The principle of separation of powers is violated because it delineates the distinct roles and responsibilities of the legislative, executive, and judicial branches. If the Environmental Protection Agency, an executive agency, were to issue, enforce, and adjudicate disputes regarding a regulation, it would encroach upon the legislative function of creating laws and the jud",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "A sound bite is crafted to encapsulate a candidate's stance or message succinctly, allowing voters to quickly grasp their viewpoints amidst the fast-paced nature of election coverage. This strategy is particularly effective in a media landscape where attention spans are short and the competition for viewers' attention is fierce. By delivering a memorable and impact",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The Founders' primary objective in convening in 1787 to draft the Constitution was to address the inadequacies of the Articles of Confederation, which had created a weak central government unable to effectively govern or unify the states. By replacing this ineffective system with a stronger federal structure, they aimed to ensure a more robust and cohesive national government capable of",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Executive Order 8248 and the Reorganization Plan 1 of 1939 specifically grant the president the authority to appoint and remove staff members for the White House Office, which directly supports the president's administrative needs. Unlike the Peace Corps, Senate Committee on Appropriations, or Cabinet, which have their own distinct structures and appointment processes, the White House Office",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "D is correct because the doctrine of original intent specifically emphasizes interpreting the Constitution based on the intentions and understandings of its framers at the time of its creation. This approach seeks to preserve the original meaning and purpose of the Constitution, ensuring that contemporary interpretations remain grounded in the historical context and principles established by the founding generation.",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 72
+    },
+    {
+      "response": "The power to negotiate treaties is shared between the President and the Senate because it requires both executive negotiation and legislative ratification, ensuring a balance of power and mutual consent in international agreements. The President initiates treaty negotiations, but the Senate must provide its advice and consent, with a two-thirds majority required for ratification, thus embodying a",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The House Committee on Ways and Means has jurisdiction over all taxation, tariffs, and other revenue-raising measures, making D the correct answer. This committee's central role in shaping tax policy and legislation underscores its comprehensive oversight of the tax system, distinguishing it from other committees that handle specific infrastructure, banking,",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Political party affiliation is a more direct and consistent predictor of voting behavior than gender, socioeconomic status, or religion because it reflects a systematic alignment with a set of policy preferences and ideological stances that guide voting decisions. Party platforms often address key issues that resonate with voters' values and interests, making party affiliation a stronger indicator of electoral",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Political efficacy is rooted in the belief that individual actions and participation in democratic processes, such as voting, campaigning, and public discourse, can indeed shape governmental policies and decisions. This conviction empowers citizens, fostering a sense of agency and responsibility in the democratic system, which is why option B is the correct answer. It encapsul",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Gerrymandering undermines voter control by manipulating district boundaries to favor certain political interests, often incumbents, and dilute the voting power of like-minded individuals. This practice distorts the democratic process by prioritizing political advantage over fair representation, thereby reducing the influence voters have on their elected officials. Hence, D is incorrect because gerry",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Commerce Clause grants Congress the power to regulate commerce with foreign nations, among the several states, and with the Indian tribes. This broad authority has been interpreted by the Supreme Court to allow federal regulation of economic activities that have a substantial effect on interstate commerce, thereby significantly expanding the scope of national government power over various sectors, including but not limited to labor relations,",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Supreme Court's interpretation in cases like Griswold v. Connecticut and Roe v. Wade established that the right to privacy, while not explicitly stated in the Constitution, is derived from the Bill of Rights' penumbras, created by the First, Third, Fourth, Fifth, and Ninth Amendments. This judicial reasoning underscores the Court",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Supreme Court issues a writ of certiorari when it decides to take a case on appeal because this writ is the formal mechanism by which the Court selects the cases it will hear, granting it discretionary jurisdiction. Unlike other options, a writ of certiorari specifically requests the lower court to send up the records for review, allowing the Supreme Court to examine the legal",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The Supreme Court has upheld that the Eighth Amendment, which prohibits cruel and unusual punishment, does not categorically ban the death penalty. Instead, it allows for its application under certain conditions, such as when the crime is particularly heinous and the defendant is deemed a threat to society, thus making B the correct answer. This nuanced interpretation ensures that",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Block grants are characterized by their flexibility and broad discretionary power, allowing state or local governments to allocate funds according to their specific needs and priorities. This contrasts with formula grants (C) that distribute funds based on predetermined criteria, and categorical grants (D) that are restricted to specific purposes. The nature of block grants,",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The House Rules Committee holds significant power in shaping the legislative agenda by setting the terms for debate and amendment on bills, which directly influences the legislative process's efficiency and outcomes. This authority allows the committee to control the flow of legislation, prioritize bills, and determine the extent of discussion and modification, making it a pivotal force",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The First Amendment explicitly states that \"Congress shall make no law... abridging... the right of the people... to petition the Government for a redress of grievances.\" This clause directly grants Americans the right to appeal to their government for the correction of wrongs, distinguishing it as a fundamental aspect of the First Amendment. The other options, while",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The doctrine of incorporation, as described in option D, is the process by which the Supreme Court has applied portions of the Bill of Rights to the states through the Fourteenth Amendment's Due Process Clause. This ensures that fundamental rights, initially only protected against federal infringement, are also safeguarded from state actions, thereby unifying the protection of civil libert",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "A. income equality is not a core value of American political culture because the United States operates on a capitalist economic system that inherently allows for income disparities based on market dynamics, individual achievements, and entrepreneurial risks. The emphasis is on economic freedom and the opportunity for wealth accumulation, which contrasts with the concept of income equality that would require redistrib",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The Fourteenth Amendment, which guarantees equal protection under the law, directly influenced the Civil Rights Act of 1964 by providing a constitutional foundation for prohibiting discrimination. The Act aimed to eliminate racial segregation and discrimination, which were in direct violation of the equal protection clause, thereby reinforcing the principles enshrined in",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "D is correct because a categorical grant is a type of federal financial assistance that is provided to states with specific, narrowly defined purposes, such as funding Head Start early education programs. This contrasts with block grants or general grants, which are given with fewer restrictions. The Head Start program's targeted funding aligns with the definition of a categorical grant, as it",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Voting Rights Act of 1965 significantly dismantled discriminatory practices such as literacy tests and poll taxes, which historically suppressed minority voters. By eliminating these barriers, the Act directly contributed to a substantial increase in voting participation among racial minorities, making option C the correct answer. This legislation was pivotal in ens",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is C because the symbiotic relationship between politicians and political reporters is essential for a functioning democracy. Politicians rely on reporters to disseminate their policies and actions to the public, while reporters depend on politicians for information and access to events. This interdependence ensures transparency, accountability, and informed public discourse",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Supreme Court's decision in Gideon v. Wainwright established that the Sixth Amendment's guarantee of counsel is a fundamental right essential to a fair trial, which applies to state courts through the Fourteenth Amendment's Due Process Clause. This landmark ruling ensures that defendants facing serious criminal charges are provided with legal representation, thereby",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The omission of a universal suffrage clause is not a weakness addressed by the original Constitution because the concept of universal suffrage was not a recognized standard at the time of the Constitution's ratification. The Constitution focused on structural and functional aspects of governance, such as establishing a federal government with a chief executive (A), enabling the national government to levy taxes (",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The franking privilege allows members of Congress to send mail to their constituents at the government's expense, as it is a longstanding tradition intended to facilitate communication between elected officials and the people they represent. This privilege is rooted in the principle of maintaining an informed electorate and ensuring that constituents receive important updates, policy positions, and legislative information directly",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The War Powers Act of 1974 and the Budget and Impoundment Control Act of 1974 were both enacted to check and balance the executive branch, specifically the powers of the president. These acts were direct responses to perceived overreach by the executive during the Vietnam War and the Nixon administration's impoundment of funds, respectively.",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Rules Committee in the House of Representatives is responsible for determining the procedure by which bills are debated and amended because it sets the terms for debate, including how much time will be allocated and what kind of amendments can be proposed. This control over the legislative process ensures that the committee can manage the flow of legislation and prioritize bills, making it",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "An amicus curiae brief allows entities with a strong interest in the case's outcome but not direct involvement to present information, perspectives, or arguments to the court. Companies, as non-parties with potential economic or policy implications, can offer valuable insights that may influence the court's decision, making D the correct choice. This mechanism ensures a bro",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The exclusionary rule is designed to uphold constitutional rights by preventing illegally obtained evidence from being used in court, thereby ensuring that law enforcement adheres to legal standards and respects individual liberties. This rule acts as a deterrent against unlawful searches and seizures, reinforcing the Fourth Amendment's protection against un",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "B is correct because ticket splitting specifically refers to the act of a voter selecting candidates from different political parties for different offices within the same election, such as choosing a presidential nominee from one party and congressional nominees from another. This practice demonstrates a voter's independent decision-making and willingness to cross party lines, which is the essence of ticket splitting",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The origination clause specifically mandates that all bills for raising revenue must originate in the House of Representatives, reflecting the principle that taxation should be initiated by the legislative body closest to the people, as its members are directly elected by the citizens. This provision ensures democratic accountability and control over fiscal matters, as the House, with its members representing smaller",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "A pocket veto occurs when the President does not sign a bill within ten days (excluding Sundays) while Congress is in recess, effectively preventing the bill from becoming law without the possibility of Congressional override. This mechanism ensures the President can unilaterally halt legislation during a recess, distinguishing it from other options that either involve Congressional action (line",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The correct answer is B. coalition building because the American Civil Liberties Union (ACLU), the National Association of Women Lawyers (NAWL), and the American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) coming together to oppose Samuel Alito's nomination demonstrates a strategic alliance of different organizations with shared interests.",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Party activists, who are a smaller but more politically engaged segment of the Republican base, often hold more conservative views. Their active participation in the primary process and their influence on the party's direction make them a significant force in shaping the candidate selection, leading to the nomination of more conservative candidates who align with their ideologies. This dynamic ensures that the Republican presidential",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is A because historical data and political trends show that presidents often nominate justices who share their ideological leanings, thereby maintaining a consistent judicial philosophy across their terms. This practice is rooted in the belief that like-minded justices are more likely to interpret the Constitution and laws in a manner that aligns with the president's policy objectives, ens",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The \"pocket veto\" occurs when the president does not sign a bill within ten days (excluding Sundays) while Congress is adjourned, preventing the bill from becoming law without the possibility of Congressional override. This mechanism is constitutionally sanctioned and distinct from public rejection or executive orders, as it directly leverages the adjournment of Congress to bypass",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is B because these elections marked pivotal moments where significant realignments in party ideologies and voter bases occurred, fundamentally altering the political landscape for generations. The 1932 election saw the Democratic Party's New Deal coalition solidify, the 1968 election witnessed a conservative shift with the rise of the Republican Party",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The correct answer is D because the minimum voting age being 21 does not inherently contribute to lower voting rates among 18-to-25-year-olds. This factor is a legal requirement that applies uniformly across all age groups and does not specifically disenfranchise or deter young voters. The other options (A, B, and C) directly relate to the",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Constitution does not explicitly mention political parties, as they are a product of evolving political practices and not a foundational element of the document. The framers of the Constitution were primarily concerned with establishing a framework for governance, including the electoral college (A), separation of powers (C), and the structure of Congress (D), without delineating the role or existence of political parties",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Congressional redistricting is mandated by the principle of equal representation, ensuring that each representative serves approximately the same number of constituents. The decennial census provides the necessary data to adjust district boundaries in response to population shifts, making option C the correct answer. This process is critical to uphold the democratic ideal of \"one person, one vote,\" and is",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is D, Brown v. Board of Education of Topeka, because the quoted opinion directly addresses the inherent inequality of segregated educational facilities, which is the central issue in this landmark case. The Supreme Court's ruling explicitly overturned the \"separate but equal\" doctrine established in Plessy v. Ferguson, making it clear that seg",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Political action committees (PACs) are legally established entities that collect funds from members or other donors to financially support political candidates, making A the correct answer. Their primary function is to pool campaign contributions from members and donate those funds to campaigns for or against candidates, ballot initiatives, or legislation, thereby directly influencing election outcomes and policy decisions",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The Voting Rights Act of 1965 specifically targeted discriminatory practices that hindered African-Americans' ability to vote, such as literacy tests, which were used to disenfranchise them. By suspending the use of literacy tests at voting centers, the Act directly addressed and eliminated a key barrier to voting for African-Americans,",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The due process clause of the Fourteenth Amendment is the correct answer because it explicitly provides that no state shall deprive any person of \"life, liberty, or property, without due process of law,\" thereby serving as the constitutional foundation for the Supreme Court's incorporation of the Bill of Rights to apply to state laws. This incorporation process ensures that states are bound by the",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Married white males are statistically more likely to support a Republican presidential candidate due to historical voting patterns that show a higher propensity for conservative values and economic policies among this demographic, which align with the Republican platform. Additionally, cultural and social factors, such as traditional family structures and economic interests, often resonate more with this group, reinforcing their support for Republican candidates who",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The primary point of contention between Federalists and Anti-Federalists during the ratification of the Constitution revolved around the balance of power between the federal government and the states. Federalists advocated for a strong central government to ensure unity and effective governance, while Anti-Federalists feared that such concentration of power would erode state sovereignty and individual",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Appellate courts primarily focus on reviewing the application of law and legal procedures in lower court decisions, rather than re-evaluating factual determinations. This is because appellate judges assess whether the law was correctly interpreted and applied, ensuring consistency and adherence to precedent, which is the essence of the stare decisis principle. Thus, D is",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Affirmative action programs are designed specifically to address and rectify historical injustices and systemic discrimination by providing members of disadvantaged groups with enhanced opportunities in education, employment, and other areas. Unlike the other options, affirmative action directly targets the root causes of inequality by actively promoting diversity and inclusion, making it the most appropriate and",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Federal budget entitlements are paid automatically through existing laws without the need for annual appropriations bills, as they are mandated by statute and funded by pre-existing legal commitments. This ensures a continuous and predictable flow of resources to beneficiaries, such as Social Security, Medicare, and Medicaid, which are essential for the welfare of",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Tenth Amendment explicitly states that powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people. This foundational principle of federalism ensures a balance of power, granting states autonomy in areas not expressly covered by federal law, thereby preserving the sovereignty",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The principle of checks and balances is integral to the Constitution as it ensures that no single branch of government\u2014executive, legislative, or judicial\u2014can dominate or usurp power, thereby maintaining a balance and preventing tyranny. This system requires each branch to have some measure of influence over the other branches, creating a self-regulating mechanism that fosters",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The swift adoption of the Bill of Rights was primarily driven by the states' fears of an overpowering national government, which they perceived as a potential threat to individual liberties. The Bill of Rights was a direct response to concerns that the new Constitution lacked explicit protections for fundamental rights, thus ensuring that states could assert their power to safeguard citizens against federal overre",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The principle of judicial review was established by the Supreme Court's decision in Marbury v. Madison because it was this landmark case that first articulated the power of the judiciary to declare legislative and executive actions unconstitutional, thereby asserting the judiciary's role as a co-equal branch of government with the authority to check and balance the",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Incumbents have a significant advantage in reelection campaigns due to their established name recognition and the ability to tap into established networks for fundraising, which often translates into more substantial campaign resources and greater visibility among voters. This advantage is well-documented in political science research, as incumbents can leverage their prior service, legislative accomplishments, and existing relationships to",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "An iron triangle exemplifies the close, stable relationships among government agencies (e.g., the Small Business Administration), legislative committees (e.g., Small Business committees in the House and Senate), and interest groups (e.g., small business advocacy groups), which collaborate to create and maintain policies favorable to their mutual interests. This tripartite al",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The Congressional Management Foundation Chair is not a special position held by a member of Congress because it is an external role, typically held by a professional or an individual from outside the legislative body, responsible for managing the operations and resources of the Congressional Management Foundation, which supports congressional staff and legislators. Unlike the President pro tempore, Speaker of the House,",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The line-item veto was deemed unconstitutional because it granted the president the power to selectively veto parts of legislation, effectively allowing the executive branch to participate in the legislative process by altering laws passed by Congress. This infringes upon the separation of powers doctrine, as it disrupts the balance by enabling the president to act with legislative",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The Supreme Court case Regents of University of California v. Bakke directly addressed the constitutionality of racial quotas in public university admissions, making D the correct answer. The case revolved around Allan Bakke, who argued that his rejection from the University of California, Davis School of Medicine was due to the school's use of a quota system that favored minority",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "In the event of a presidential tie in the electoral college, the U.S. Constitution mandates that the House of Representatives selects the president from the top three contenders. This process ensures a democratic resolution within the legislative branch, reflecting the will of a broader representative body rather than a singular electoral outcome, thereby upholding the principle of majority rule",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Gramm-Rudman Acts of 1985 and 1987 were specifically designed to impose statutory limits on federal spending, thereby compelling the government to prioritize fiscal responsibility and enforce budgetary discipline. By setting progressively stricter deficit reduction targets, these acts directly aimed to curtail the growing federal def",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "A writ of certiorari from the Supreme Court signifies that the Court has granted permission to review a lower court's decision, indicating its willingness to examine the case's merits and potentially overturn or uphold the original ruling. This process is crucial for ensuring the uniform application of law and addressing significant legal questions that may have broader implications, thereby",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Evangelical Christians are traditionally associated with the Republican Party, which aligns with conservative values, including social issues that resonate with their beliefs. This historical voting pattern contrasts with the statement D, making it untrue, as it incorrectly suggests that Evangelical Christians are more likely to vote Democratic than non-religious Americans, who typically lean towards the Democratic Party due to its progress",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "A is correct because congressional oversight is a fundamental function of legislative bodies, primarily conducted through specialized committees and subcommittees that possess the expertise and procedural mechanisms to scrutinize executive actions, ensuring accountability and transparency. These structured entities allow for focused and detailed examination of government operations, making them the most effective and",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Federal programs are primarily implemented by state and local governments through the allocation of federal funding, as these entities are directly responsible for administering and executing the programs within their jurisdictions. This structure ensures that federal objectives are met at the local level, where the impact of these programs is most directly felt by the population. The reliance on state and local governments for implementation allows",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "A presidential plurality victory occurs when the winning candidate receives less than 50 percent of the popular vote because it signifies that the candidate secured the highest number of votes among all candidates without achieving a majority, thus winning by having the largest share of the vote rather than an absolute majority. This scenario is common in systems like the United States, where the candidate with the most votes wins",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "The term \"iron triangle\" accurately describes the dynamic and mutually beneficial relationships between the federal bureaucracy, congressional committees, and lobbyists (D), as these entities work closely to create and maintain policies that serve their respective interests. The bureaucracy implements laws and regulations, congressional committees oversee and shape legislation",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "d'Holbach's materialist philosophy posits that all phenomena, including mental and moral attributes, are the result of physical processes in the brain. He argues that what we perceive as immaterial souls are merely complex interactions of matter, thus making all mental and moral attributes purely physical and natural. This perspective is grounded in empirical evidence and scientific understanding, which increasingly",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The question \"Is there anything you would be willing to die for?\" compels individuals to reflect deeply on their values, principles, and the reasons behind their potential actions, thereby necessitating a clear articulation and justification of their beliefs about what they deem important and morally obligatory. This introspective process underscores the philosophical nature of the question, as it trans",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Singer's principle emphasizes the interconnectedness of individual actions and societal structures in addressing ethical issues, such as poverty and environmental degradation. The necessity for drastic changes in both personal habits and societal systems is rooted in the understanding that systemic issues require systemic solutions, and individual actions, while impactful, are insufficient without broader",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Plato's philosophy posits that true beauty transcends the physical realm, embodying an ideal form that exists beyond our sensory experiences. This notion aligns with his theory of Forms, where the material world is a mere shadow of the perfect, immutable realities. Therefore, D. not of this world, is correct as it encapsulates Plato'",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Gauthier's conception of morality is rooted in the idea that rational individuals, through mutual agreement, establish the terms of their interactions, which inherently includes principles of fairness, cooperation, and reciprocity. This social contract approach emphasizes the importance of consensual norms that facilitate productive and harmonious relations, rather than external dictates or natural",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Aquinas's argument for the existence of God as the first efficient cause is rooted in the principle of causality, which posits that every effect must have a cause. In his Fifth Way, Aquinas observes that nothing in the universe can produce itself, implying a necessary being that initiates the causal chain. This necessary being, which is uncaused and eternal",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Aristotle concludes the Ethics with a discussion on politics because he views the polis (city-state) as the highest form of community, where human virtues can be fully actualized and where ethical principles can be applied to governance. This transition underscores the practical application of ethical virtues in the realm of political life, emphasizing the interconnectedness of",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Soft determinism, also known as compatibilism, posits that determinism and free will are not mutually exclusive; it suggests that our actions are determined by prior events and conditions, yet we still possess the capacity for rational deliberation and choice within those constraints. The thesis of determinism being true (D) aligns with this view, as it acknowledges the causal chain",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Hume's distinction between impressions and ideas is grounded in his empirical approach to understanding human cognition. Impressions are vivid, lively perceptions that we directly experience through our senses, while ideas are the less vivid copies of these impressions that we can recall and reflect upon. This bifurcation is crucial for Hume's philosophy as",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Augustine's concept of evil as the absence of good (B) is grounded in his philosophical and theological framework, which posits that good is the ultimate reality and that evil does not exist as a substance or entity but rather as a lack or privation of good. This perspective allows for a coherent understanding of evil that aligns with the inherent nature of",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Feelings are essential and inevitable in the moral life because they are intrinsic to human experience and influence our ethical decisions and empathetic understanding. They provide the emotional context that shapes our values and moral judgments, making them an indispensable component of our moral reasoning and actions. Without feelings, our capacity to connect with others and comprehend the moral weight",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "D is correct because Plato's Divided Line metaphorically illustrates the progression from illusion to knowledge, emphasizing that true knowledge (episteme) is not derived from sensory perceptions (doxa) but from the understanding of unchanging, eternal Forms (Ideas). These Forms represent the highest level of reality and truth, which",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Bentham's definition of fecundity pertains to the likelihood of a pleasure or pain leading to similar experiences, emphasizing the propensity for a sensation to generate a chain of similar pleasures or pains. This concept is crucial in utilitarian calculus, as it assesses not just the immediate impact but also the potential for a sensation to propagate",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Nagel's exploration of moral luck hinges on the tension between our actions and their outcomes, which are often beyond our control, thereby challenging the concept of free will. He argues that if our moral responsibility is undermined by factors outside our control, it calls into question the extent to which we are truly free agents, as our will is not entirely autonomous",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Answer B is correct because it directly addresses the nature of Forms as described by Plato. Forms are the eternal, unchanging essences that give individual objects their identity and are knowable through intellectual insight rather than sensory experience. This distinction is crucial in understanding why Forms do not exist in the sensible world, which is characterized by change and imperfection, unlike the",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Aquinas posits that ultimate happiness, or beatitude, is achieved through the intellectual love of God, which is the highest form of contemplation. This contemplative union with God transcends temporal pleasures and moral virtues, as it aligns with the beatific vision, the direct and immediate knowledge of God, which is the ultimate end and fulfillment of human",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Epictetus emphasizes that true autonomy and control lie in managing our reactions to external events, not in possessing material or relational entities. Since impressions are the immediate responses to external stimuli, mastering one's reactions to these impressions is the sole domain within our control, aligning with Epictetus's Stoic philosophy that advocates for",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Descartes' famous declaration \"Cogito, ergo sum\" (I think, therefore I am) asserts that the act of thinking is undeniable proof of one's existence, making him a \"thing that thinks.\" This foundational principle in his philosophy establishes the certainty of the self as a thinking entity, distinguishing it from physical bodies or dreams,",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "D is correct because when employing visual methods in research, it is imperative to consider all aspects that could impact the ethical integrity and legal compliance of the study. A public space (A) may not always guarantee privacy, and visual data could still infringe on personal boundaries. Protecting individuals from potential harm (B) and avoiding invasion of privacy (C)",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Descartes posits that physical things possess extension, meaning they occupy space and have dimensions. This concept is foundational to his philosophy, as it allows for the differentiation between physical and non-physical entities, enabling the application of scientific methods to study and understand the physical world. Thus, D is correct because it aligns with Descartes' view that the essence of",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "A is correct because Paley's argument hinges on the concept of purposefulness, which implies intentional design. The intricate complexity and functionality of a watch, which cannot arise by chance, suggest a deliberate creator, much like the watch's purposeful design indicates an intelligent designer. This analogy is central to Paley's teleological argument, where the",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Hobbes defines felicity as a continual progress of desire from one object to another, as it encapsulates the perpetual motion and evolution of human aspirations, which is central to his materialistic view of human nature. This definition aligns with his belief that human beings are driven by an insatiable quest for satisfaction, which is never fully attained, thus perpetu",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Cicero, a renowned Roman philosopher, posited that virtue encompasses multiple facets, including justice, generosity, and kindness, as these qualities collectively contribute to the well-being of both the individual and society. He believed that a virtuous life, characterized by these interconnected traits, leads to personal fulfillment and societal",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Reductio ad absurdum is the correct answer because it directly addresses the scenario where assuming a set of statements leads to a contradiction or an absurd conclusion, thereby proving the original set of statements to be false. This method of argumentation is specifically designed to demonstrate the falsity of a proposition by showing that it logically entails an absurdity, which is precisely what the",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Socrates believed that the soul's harmony and well-being are intrinsically linked to the pursuit and attainment of knowledge. He posited that ignorance leads to moral and intellectual disarray, causing the soul to suffer. Thus, A. knowledge is the correct answer as it is the foundation for a virtuous life and the avoidance of the soul's",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Brandt's assertion that the idealness of a moral code hinges on multiple factors\u2014complexity, adherence likelihood, and the emotional toll of its restrictions\u2014underscores the multifaceted nature of ethical systems. A moral code's effectiveness and desirability are not solely determined by one criterion but are instead a",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Hume posits that beauty is subjective, varying from person to person based on individual experiences, emotions, and cultural backgrounds. This perspective aligns with his empiricist view that knowledge arises from sensory experiences, leading to the conclusion that each mind perceives a different beauty, as there is no universal standard for beauty that transcends personal interpretation. Thus, B is the",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Berkeley's philosophy, known as subjective idealism, posits that all that exists are perceptions within the mind. He argues that heat and cold, like all sensory experiences, do not have an independent existence outside of our perception, thus making them mere sensations existing in our minds. This perspective challenges the notion of material substance, asserting that without",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Substance dualism posits that the mind and body are fundamentally different substances that interact, with the mind being non-physical and the body being physical. This view, historically associated with Ren\u00e9 Descartes, directly addresses the question by affirming the existence of two distinct substances (body and mind) and their interaction, which is not accounted for by functional",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Critics argue that divine command theory suggests God's commands are arbitrary (D) because it posits that moral values are grounded solely in God's will, without any intrinsic reason or rationality. This perspective undermines the possibility of objective moral truths, as it implies that what is morally right or wrong is contingent upon God's subjective decree",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Epictetus, a Stoic philosopher, taught that virtue is sufficient for happiness and that external events should not disturb one's inner peace. He believed that a virtuous person should maintain equanimity in the face of life's adversities, including the loss of loved ones. Therefore, the correct answer is C. undisturbed, as Epictetus would argue",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Epicurus posited that the wise man understands the nature of death as the cessation of sensation and experience, which is fundamentally indistinguishable from non-existence. Since death signifies the end of all experiences and pleasures, a wise man, who values tranquility and absence of pain, would not fear it, as it does not affect his",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "David Hume argues that beauty is not an intrinsic quality of objects but rather a subjective perception influenced by personal sentiment and cultural context. This perspective is grounded in his empiricist philosophy, which posits that knowledge arises from sensory experiences rather than innate ideas. Thus, Hume's assertion that beauty is \"no quality in things themselves\" (D) unders",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The Mona Lisa is representational because it depicts a real, identifiable figure\u2014Mona Lisa herself\u2014with recognizable human features and a lifelike presence. Leonardo da Vinci's masterful use of sfumato and chiaroscuro techniques enhances the realism, making the painting a quintessential example of representational art that captures the ess",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Anselm's argument hinges on the concept that existence in reality adds to the greatness of a being. The option C, \"exists only in the understanding,\" directly contrasts with this premise by suggesting a being's greatness is not enhanced by actual existence. Anselm posits that if something can be conceived to exist in reality, it must be greater",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "A is correct because John Locke's political philosophy emphasizes the social contract and the collective decision-making process. In Locke's view, when individuals come together to form a society, they agree to abide by the decisions made by the majority, as it represents the will of the greater number of people, ensuring fairness and the common good. This foundational principle",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "C is correct because deception in business research involves misleading participants or stakeholders about the true nature of the study. Representing research as a different topic is a form of deception that can compromise the integrity of the research process, as it may lead to biased responses or ethical concerns regarding informed consent. This misrepresentation can skew the results and undermine the",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Augustine posits that evil is not a substance but rather a privation of good, meaning that evil exists only in the absence of good. Since love is intrinsically linked to good, the presence of love negates the possibility of evil. Thus, Augustine's claim that there can be no evil where there is no good (D) is substantiated by the philosophical",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "The principles of justice, as envisioned by Rawls, are the result of a fair agreement or bargain because they are derived from the original position, where individuals operate behind the veil of ignorance, unaware of their own place in society. This ensures impartiality and fairness, as decisions are made without personal biases or knowledge of one's own advantages",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Aquinas posits that human actions are inherently directed towards the pursuit of truth, as they are guided by reason and the quest for understanding. This aligns with his philosophical and theological framework, which emphasizes the inherent rationality and moral orientation of human beings. Thus, C is correct because Aquinas fundamentally believes that all human operations are oriented towards",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "A is correct because, according to Sartre's existentialist philosophy, the absence of God implies that humans are not bound by any predetermined moral codes or divine laws. This freedom leads to the notion that \"anything is permissible,\" as individuals must create their own values and meanings in a universe devoid of inherent moral structures. Sartre's",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Philosophy fundamentally seeks to clarify and understand the nature of knowledge, reality, and existence, which is encapsulated in the inquiries \"what do you mean?\" and \"how do you know?\" These questions directly address the core of philosophical analysis by challenging assumptions, demanding precision in language, and scrutinizing the justification of beliefs, thus driving the",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Socrates' comparison of Athens to a parent is compelling because it emphasizes the natural and almost instinctual duty of obedience and respect that children owe to their parents. This analogy suggests that just as children are inherently bound to follow their parents' guidance for their well-being and upbringing, citizens are similarly obligated to adhere to the laws",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "A is correct because deceiving participants in research can lead to a breach of trust, which is fundamental to the ethical conduct of research. This breach not only undermines the integrity of the research process but also tarnishes the reputation of the researcher and the broader scientific community, as it calls into question the validity and ethical standards of the research findings. The",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Socrates is credited with the statement \"An unexamined life is not worth living\" because it encapsulates his philosophical approach of relentless inquiry and self-examination. This principle is a cornerstone of Socratic philosophy, which emphasizes the importance of questioning and critical thinking to achieve personal wisdom and virtue. Unlike his contemporaries,",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "A person who refuses to make any positive moral judgments cannot coherently invoke morality to protect their own interests because morality inherently involves making judgments about right and wrong, which are essential for guiding actions that align with one's values and interests. Without the capacity to assess moral situations, an individual lacks a framework to determine what actions would be in their best",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "The philosophical method is the correct answer because it encompasses the broad and systematic use of critical reasoning to explore fundamental questions about reality, morality, and knowledge. Unlike the other options, it specifically addresses the wide range of inquiries that define philosophy, including but not limited to ethical dilemmas, metaphysical speculation, and epistemological",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Philosophy delves into the essence and significance of beliefs, examining the nature of truth, justification, and the rationality behind differing viewpoints. It seeks to understand not just the existence of diverse beliefs but also the foundational reasons and principles that validate or challenge these beliefs, making option B the most accurate representation of philosophy's core inquiries. This",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "D is correct because Sartre's existentialist philosophy fundamentally posits that individuals first exist without predetermined essence or purpose, and only later define themselves through their actions and choices. This concept, \"existence precedes essence,\" challenges traditional notions of a fixed human nature, emphasizing the primacy of individual freedom and responsibility in shaping one'",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Berkeley's philosophy, known as subjective idealism, posits that existence is contingent upon perception; thus, for him, to exist is to be perceived. This foundational principle leads to the conclusion that for Berkeley, existing and perceiving are indeed one and the same thing, as the act of perception is intrinsically linked to existence. Without perception",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Stevenson's identification of a term's meaning hinges on the psychological underpinnings and the consequential effects that naturally arise from its use, which is best encapsulated by option C. This choice underscores the intricate relationship between language and thought, where the meaning is not merely a static label but a dynamic construct shaped by the mental processes and reactions",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Nussbaum's assertion that fear is \"partially learned and culturally variant\" is supported by anthropological evidence showing that while the capacity for fear is a universal human trait, the specific fears, expressions, and coping mechanisms are shaped by cultural contexts and individual experiences. This perspective acknowledges the biological underpinnings of fear while also recognizing the",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Glaucon argues that justice arises from a social agreement (A) because it is a mutual understanding among individuals to avoid the inevitable disadvantages of living in a society where everyone acts solely on self-interest. This pact ensures stability and cooperation, as people recognize the benefits of a harmonious community over the chaos of unrestrained individual",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Brandt's theory posits that an ideal moral rule should consider the totality of consequences, both positive and negative, to maximize overall utility. This comprehensive approach ensures that decisions are not skewed by an overemphasis on gains while neglecting potential harms, thereby adhering to a principle of impartiality and rationality that is central to ethical decision",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Nagel argues that before reflective judgment, individuals cannot be morally assessed for actions influenced by factors beyond their control because such assessments require an understanding of intentionality and moral responsibility, which are not discernible without considering the individual's capacity to have acted differently under different circumstances. This perspective emphasizes the importance of context and the recognition that not all actions are within the pur",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Incontinence, in Aristotle's view, is characterized by a person's awareness of the moral impropriety of their actions yet choosing to proceed regardless, which aligns with option B. This is because incontinence reflects a conflict between knowledge and action, where the individual possesses moral insight but fails to act in accordance with it,",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Baier argues that ethical skepticism often stems from confused epistemological theories because such confusion leads to uncertainty about the foundations and justifications of moral knowledge, thereby undermining the certainty of ethical principles and beliefs. This epistemological confusion directly impacts our ability to discern moral truths, making it the primary source of ethical skeptic",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Socrates' assertion that \"the unexamined life is not worth living\" emphasizes the importance of self-reflection and critical thinking in determining the value and purpose of our actions. Answer C encapsulates this by highlighting that without examining our motives and the reasons behind our actions, we cannot claim our lives to be worthwhile, noble, or admi",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Epictetus emphasizes the importance of self-control and rational deliberation in ethical decision-making, advocating for actions that are aligned with our principles and the broader good, rather than impulsive or purely self-serving. The correct answer, C, reflects Epictetus's Stoic philosophy, which values the careful consideration of consequences to ensure our actions",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Augustine posits that human error is not an inherent possibility but rather a result of ignorance, as individuals possess the capacity for knowledge and understanding. This perspective suggests that errors occur not from a fundamental flaw in human nature but from a lack of awareness or misapplication of knowledge, thus making B the correct answer. By emphasizing the role of ignorance, Augustine undersc",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The notion of \"meaning in life\" is best encapsulated by C. internalmeaning, as it emphasizes the personal, subjective, and intrinsic sources of significance that individuals derive from their experiences, values, and beliefs. This perspective acknowledges that meaning is not externally imposed but is constructed internally through one's reflections, choices, and the pursuit of",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Hobbes posits that in the absence of a common power to enforce laws and maintain order, humans would naturally fall into a state of perpetual conflict, as each individual's self-interest would lead to a \"war of every man against every man.\" This assertion is grounded in his belief that the natural condition of mankind is one of fear and danger of violent death, and",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Descartes posited that the pineal gland, a small endocrine organ located in the brain, served as the principal site for the interaction between the immaterial mind and the physical body. He believed this singular gland to be the \"seat of the soul,\" uniquely positioned to mediate the mind's influence on bodily functions, thus making C the correct",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Kant's deontological ethics emphasize that the moral worth of an action is determined by the intention or maxim behind it, not by its consequences or the agent's character. This principle, known as the categorical imperative, asserts that actions are morally right if they can be universalized as a law for everyone, thus making C the correct answer. The maxim,",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Socrates' wisdom lies in his awareness of his own ignorance and his pursuit of knowledge of essences, which is encapsulated in option B. This recognition of his own lack of knowledge about essential truths like justice, and his commitment to seeking this knowledge, demonstrates a profound understanding of the philosophical journey towards wisdom. By acknowledging what he does not",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "D is correct because it encompasses all the mentioned frustrations: A highlights the subjective nature of ethical standards, B points to the repetitive nature of ethical debates, and C associates ethical violations with specific research methods, collectively illustrating the multifaceted and persistent challenges in the discourse on research ethics.",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 77
+    },
+    {
+      "response": "B is the correct answer because an important moral criterion of adequacy must align with our considered moral judgments, which are the deeply held beliefs and principles that guide our ethical decision-making. This criterion ensures that moral theories are not only abstract but also practically relevant and reflective of our lived experiences and societal norms. By prioritizing consistency with",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "A Loving Saint is characterized by deriving their sense of fulfillment and joy from the well-being and happiness of others, which aligns with the selfless nature of sainthood. This choice reflects a profound level of altruism and spiritual depth, where personal contentment is intrinsically linked to the happiness of those they care for, embodying",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Mill's utilitarianism seeks to maximize happiness and minimize suffering, emphasizing the quality of pleasures. He distinguishes between higher and lower pleasures, valuing intellectual and moral pleasures (enjoyments) over mere physical satisfaction. Thus, the ultimate end of utilitarianism is an existence rich in enjoyments, as these higher pleasures contribute more",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Hobbes's concept of the right of nature is fundamentally about the inherent freedom to act in any way necessary to ensure one's own survival, without interference from others. This principle is rooted in the state of nature, where life is \"solitary, poor, nasty, brutish, and short,\" and thus, the primary drive for individuals is self",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Baier's theory emphasizes the authenticity and genuineness of moral rules as the foundation for moral permissibility. By asserting that the second step involves determining the genuineness of the moral rule forbidding an action, Baier underscores the importance of intrinsic moral values over external or societal impositions. This approach ensures that moral judgments",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The story of the ring of Gyges, as recounted by Plato, directly addresses the temptation to commit injustice without fear of retribution, which Cicero explores in his philosophical discussions on morality and justice. The ring grants its wearer the power to become invisible, thus enabling them to act unjustly with impunity, making it a fitting",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Berkeley posits that for an object to exist, it must be perceived by a mind; thus, sensible things cannot exist independently of perception. This philosophical stance, known as subjective idealism, asserts that existence is fundamentally tied to perception, and without a perceiving mind, objects lack existence. Therefore, A. a mind is the correct answer because",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Option B is correct because maintaining the confidentiality of personal data is crucial to protect individuals, places, or organizations from potential harm that could arise from unauthorized identification or disclosure. This safeguarding of sensitive information upholds ethical research practices, ensures participant trust, and prevents potential misuse of data that could lead to discrimination, stigmat",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Covert observation is most commonly associated with a lack of informed consent because it involves observing subjects without their knowledge, thereby bypassing the ethical requirement for participants to be aware of and agree to the research methods being employed. This undermines the autonomy and privacy of the individuals being studied, as they are not given the opportunity to consent to or refuse participation in the research, which",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "C is correct because Socrates emphasized the importance of self-knowledge and understanding the reasons behind our actions. Without this introspection and rational examination, individuals cannot discern the moral justification of their actions, which is essential for a life of virtue. Thus, an unexamined life lacks the foundation of ethical decision-making, rendering it neither worth living nor virt",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Bentham's principle of utility posits that human actions are driven by the pursuit of pleasure and the avoidance of pain, which are the fundamental forces shaping human behavior and societal norms. This hedonistic view suggests that our moral compass and legal systems are constructed to maximize collective happiness and minimize suffering, making 'pain and pleasure' the sover",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Bentham's utilitarianism emphasizes the importance of considering the greatest happiness for the greatest number, which should inform decision-making. However, it is impractical to perform detailed utilitarian calculations before every action due to time constraints and complexity. Thus, while these calculations are crucial for guiding ethical choices, they need not be executed in real-time but should always",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Answer B is correct because it highlights the circular reasoning inherent in evaluating our own perspective. When we use our internal perspective to justify its validity, we inadvertently rely on the same perspective as the standard of evaluation, making it impossible to objectively assess its truth or usefulness without an external reference point. This self-referential loop underscores the limitation of an internal",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Disagreements about the aesthetic value or social relevance of a piece of art are common because art is inherently subjective, and individuals bring their unique perspectives, experiences, and cultural backgrounds to their interpretations. This diversity in viewpoints naturally leads to a wide range of opinions, making such debates a frequent occurrence in the art world. The subjective",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Kant's categorical imperative posits that moral laws are universal and binding on all rational beings, not contingent on individual circumstances, cultural norms, or divine command. This universality ensures that moral actions are not subject to personal whims or societal variations, but are instead grounded in reason, which is accessible to all rational agents, thereby affirming the necessity",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Aquinas, grounded in Aristotelian philosophy and Christian theology, posits that the ultimate purpose of human existence is not transient pleasures (A) or the mere satisfaction of desires (C), nor is it solely the absence of anxiety (D). Instead, he argues for the attainment of happiness or beatitude (B), which is an enduring",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "The answer is B because Diener and Crandell specifically enumerate four distinct ethical principles in their work: harm to participants, lack of informed consent, invasion of privacy, and involvement of deception. These categories are directly referenced and form the core of their ethical framework, making B the accurate and comprehensive choice that aligns with their scholarly contributions.",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 75
+    },
+    {
+      "response": "In Hobbes' state of nature, where life is \"solitary, poor, nasty, brutish, and short,\" individuals are in a constant state of war, lacking trust and security. This leads to a scenario where there are no established laws or societal structures to limit one's actions, thus every man has the right to everything (D) as a means of self",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Schopenhauer's philosophy centers on the concept of the will as the underlying force of existence, leading to a life characterized by suffering and desire, which he perceives as inherently meaningless. His pessimistic view posits that human existence is a constant struggle against the inevitability of pain and dissatisfaction, thus rendering life devoid of intrinsic purpose",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Moore's naturalistic fallacy specifically critiques the conflation of 'good' with any natural property, asserting that ethical terms cannot be equated with natural properties. This is because 'good' carries a normative weight that cannot be reduced to mere descriptive terms of nature, preserving the distinctiveness of moral values from empirical observations. Thus, C is correct",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "Aristotle posits that happiness (eudaimonia) is the highest human good, achieved through the activity of the soul in accordance with virtue, as it represents the fulfillment of one's purpose and the realization of one's potential, aligning with his teleological view of human nature. This perspective emphasizes the importance of virtuous actions and the development of moral",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Nagel's concept of moral luck hinges on the idea that the self, as a distinct entity with moral agency, faces existential threat when its actions are subsumed under the broader category of events, which are often beyond its control. This absorption undermines the self's autonomy and moral responsibility, as it blurs the line between actions taken by the",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Kant posits that a good will is intrinsically valuable and the sole condition under which an action can be deemed truly moral, irrespective of its consequences. This is because a good will acts out of respect for moral law, not for any ulterior motive or expected outcome, thereby embodying the essence of moral duty and autonomy. Hence, D. a good will",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Kant posits that the moral law originates from one's own will, as it is through autonomous rationality that individuals can determine universal maxims, independent of external influences like society, divine command, or natural instincts. This self-legislation is central to his deontological ethics, where moral actions are dictated by duty derived from pure reason, not by cont",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Hobbes posits that in the absence of a common power to enforce social contracts and maintain order, individuals revert to a state of nature characterized by fear and competition for resources, ultimately leading to a \"war of all against all.\" This war is not merely physical but also encompasses the constant threat of violence and the inability to trust others, as there is no overarch",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Mill's definition of \"utility\" as pleasure and the absence of pain is grounded in the principle of utilitarianism, which posits that the moral worth of an action is determined by its contribution to overall happiness. This hedonistic calculus, central to Mill's ethical theory, asserts that actions are right insofar as they promote happiness (pleasure",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "A moral theory primarily aims to establish principles that determine the ethical value of actions, guiding us in discerning right from wrong. It provides a systematic framework for evaluating moral decisions, ensuring consistency and coherence in ethical judgments. Thus, option A is the correct answer as it directly addresses the core function of moral theories, which is to explain",
+      "correct_idx": 0,
+      "correct_letter": "A",
+      "token_count": 80
+    },
+    {
+      "response": "Kant posits that the natural purpose of reason is to produce a good will, as it is the only thing that is good without qualification, aligning with his deontological ethics where actions are judged by their adherence to duty rather than their consequences. A good will acts from duty and respects the moral law, which is the essence of rationality and autonomy,",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "D is correct because research participants can experience a range of harms, including physical injury from experimental procedures, psychological stress and anxiety from participation in studies, and impaired development if the research interferes with their growth or learning processes. Each of these forms of harm is recognized in ethical guidelines for research, emphasizing the importance of safeguarding participants' well-be",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Aquinas posits that prudence, as a cardinal virtue, is fundamentally about discerning and choosing the right means to achieve moral ends, thus directly aligning with moral virtue. It involves practical wisdom to navigate ethical decisions, distinguishing it from mere pursuit of pleasure (A) or desire (B), and while it can encompass piety (D),",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 80
+    },
+    {
+      "response": "D is correct because, in Plato's philosophy, knowledge transcends mere sensory perception or subjective belief. It is grounded in the realm of Forms, which are eternal, unchanging, and rationally ordered concepts or ideas that provide the true essence of things. This understanding allows for a justified true belief, as it is not conting",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "B is correct because Locke argues that in the state of nature, individuals are exposed to the constant threat of harm from others, leading to a precarious and insecure enjoyment of freedom. By consenting to form a government, individuals collectively agree to establish a social contract that provides a more stable and protected environment, ensuring their freedom is safeguarded through established laws and mut",
+      "correct_idx": 1,
+      "correct_letter": "B",
+      "token_count": 80
+    },
+    {
+      "response": "Socrates believed that an unexamined life leads to a tragedy for the soul because it prevents individuals from achieving self-knowledge and moral understanding, which are essential for a virtuous and fulfilling existence. Without introspection and philosophical inquiry, one's soul remains unenlightened, leading to a life devoid of true wisdom and ethical growth",
+      "correct_idx": 3,
+      "correct_letter": "D",
+      "token_count": 80
+    },
+    {
+      "response": "Rawls argues that a conception of justice is best justified through a pluralistic approach, where various principles and considerations are interwoven to form a comprehensive and coherent framework. This method acknowledges the complexity of justice, allowing for a nuanced understanding that accommodates diverse perspectives and societal needs, thus making C the most fitting answer.",
+      "correct_idx": 2,
+      "correct_letter": "C",
+      "token_count": 76
+    }
+  ]
+}

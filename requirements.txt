@@ -1,0 +1,30 @@
+# Python 3.10.12 | CUDA 12.x | Tested on NVIDIA RTX 3090 (24 GB)
+
+# ── ML framework ──────────────────────────────────────────────────
+torch==2.5.1
+accelerate==1.13.0
+
+# ── HuggingFace ecosystem ────────────────────────────────────────
+transformers==4.46.3
+huggingface_hub==0.36.2
+safetensors==0.7.0
+sentencepiece==0.2.1
+protobuf==7.34.1
+datasets==4.5.0
+
+# ── Numerical / statistical analysis ─────────────────────────────
+numpy==1.26.4
+scipy==1.15.3
+scikit-learn==1.7.2
+pandas==2.3.3
+
+# ── Visualization ────────────────────────────────────────────────
+matplotlib==3.10.8
+
+# ── Utilities ─────────────────────────────────────────────────────
+tqdm==4.67.3
+joblib==1.5.3
+python-dotenv==1.2.1
+
+# ── LLM judge (optional; only needed for free-text evaluation) ───
+anthropic==0.71.0
