@@ -1,8 +1,8 @@
 # Not Just RLHF: Why Alignment Alone Won't Fix Multi-Agent Sycophancy
 
-**[Paper (arXiv)](https://arxiv.org/abs/2605.12991)**
+[![arXiv](https://img.shields.io/badge/arXiv-2605.12991-b31b1b.svg)](https://arxiv.org/abs/2605.12991)
 
-Multi-agent LLM pipelines flip from correct to incorrect answers under simulated peer disagreement at rates we term *yield*. We show this vulnerability is pretrained (not RLHF-induced), localize it to an attention-dominant mid-layer circuit (L14--L18), decompose the attack surface into channel framing x consensus strength, and demonstrate that a single correctly-arguing dissenter generalizes across framings where prompt-level defenses do not.
+Multi-agent LLM pipelines flip from correct to incorrect answers under simulated peer disagreement at rates we term *yield*. We show this vulnerability is pretrained (not RLHF-induced), localize it to an attention-dominant mid-layer circuit (L14-L18), decompose the attack surface into channel framing x consensus strength, and demonstrate that a single correctly-arguing dissenter generalizes across framings where prompt-level defenses do not.
 
 ## Citation
 
